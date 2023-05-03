@@ -13,9 +13,9 @@
   --global-theme-color: #0076df;
   --global-hover-color: #0076df;
   --global-hover-text-color: #ffffff;
-  --global-footer-bg-color: #1C1C1D;
-  --global-footer-text-color: #e8e8e8;
-  --global-footer-link-color: #ffffff;
+  --global-footer-bg-color: #ffffff;
+  --global-footer-text-color: #000000;
+  --global-footer-link-color: #0076df;
   --global-distill-app-color: #828282;
   --global-divider-color: rgba(0,0,0,.1);
   --global-card-bg-color: #ffffff;
@@ -86,13 +86,14 @@ body.sticky-bottom-footer {
 }
 
 .container {
-  max-width: 800px;
+  max-width: 900px;
 }
 
-.profile img {
-  width: 100%;
-}
-
+/* .profile {
+  img {
+    width: 100%;
+  }
+} */
 /******************************************************************************
  * Publications
  ******************************************************************************/
@@ -102,6 +103,20 @@ body.sticky-bottom-footer {
 /*******************************************************************************
  * Styles for the base elements of the theme.
  ******************************************************************************/
+body {
+  font-family: "Noto Sans JP", sans-serif;
+  font-weight: normal;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: bold;
+}
+
 p,
 h1,
 h2,
@@ -194,10 +209,16 @@ blockquote {
 .profile {
   width: 100%;
 }
+.profile figure {
+  text-align: center;
+}
+.profile img {
+  width: 60%;
+}
 .profile .address {
   margin-bottom: 5px;
   margin-top: 5px;
-  font-family: monospace;
+  /* font-family: monospace; */
 }
 .profile .address p {
   display: inline-block;
@@ -206,15 +227,23 @@ blockquote {
 
 .profile.float-right {
   margin-left: 1rem;
+  margin-bottom: 1rem;
 }
 
 .profile.float-left {
   margin-right: 1rem;
+  margin-bottom: 1rem;
 }
 
 @media (min-width: 576px) {
   .profile {
     width: 30%;
+  }
+  .profile figure {
+    text-align: center;
+  }
+  .profile img {
+    width: 80%;
   }
   .profile .address p {
     display: block;

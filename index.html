@@ -24,10 +24,16 @@
     <!-- Bootstrap Table -->
     <link defer rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.21.3/dist/bootstrap-table.min.css">
 
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata&amp;family=Noto+Sans+JP:wght@400;700&amp;display=swap%7CMaterial+Icons" rel="stylesheet">
+
+
     <!-- Fonts & Icons -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css" integrity="sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha256-i1+4qU2G2860dGGIOJscdC30s9beBXjFfzjWLjBRsBg=" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700%7CRoboto+Slab:100,300,400,500,700%7CMaterial+Icons">
+    <!-- link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons"> -->
 
     <!-- Code Syntax Highlighting -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/github.css" media="" id="highlight_theme_light">
@@ -36,7 +42,7 @@
 
     <!-- Styles -->
     
-    <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%E2%9A%9B%EF%B8%8F&lt;/text&gt;&lt;/svg&gt;">
+    <link rel="shortcut icon" href="data:image/svg+xml,&lt;svg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20100%20100%22&gt;&lt;text%20y=%22.9em%22%20font-size=%2290%22&gt;%F0%9F%94%8A&lt;/text&gt;&lt;/svg&gt;">
     
     <link rel="stylesheet" href="/assets/css/main.css">
     <link rel="canonical" href="https://skoyamalab.github.io/">
@@ -55,7 +61,9 @@
       <!-- Nav Bar -->
       <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top">
         <div class="container">
-          
+          <a class="navbar-brand title font-weight-lighter" href="/"><img src="/assets/img/logo.png" height="48px">
+          </a>
+          <!-- 
           <!-- Navbar Toggle -->
           <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="sr-only">Toggle navigation</span>
@@ -72,23 +80,10 @@
                 <a class="nav-link" href="/">About<span class="sr-only">(current)</span></a>
               </li>
               
-              <!-- Blog -->
-              <li class="nav-item ">
-                <a class="nav-link" href="/blog/">Blog</a>
-              </li>
 
               <!-- Other pages -->
               <li class="nav-item ">
-                <a class="nav-link" href="/publications/">Publications</a>
-              </li>
-              <li class="nav-item ">
-                <a class="nav-link" href="/projects/">Projects</a>
-              </li>
-              <li class="nav-item ">
-                <a class="nav-link" href="/teaching/">Teaching</a>
-              </li>
-              <li class="nav-item ">
-                <a class="nav-link" href="/recruitment/">Join us</a>
+                <a class="nav-link" href="/ja/recruitment/">Join us</a>
               </li>
             </ul>
           </div>
@@ -109,12 +104,12 @@
       
         <!-- about.html -->
       <div class="post">
-        <header class="post-header">
+        <!-- <header class="post-header">
           <h1 class="post-title">
            NII Shoichi Koyama's Lab
           </h1>
           <p class="desc"></p>
-        </header>
+        </header> -->
 
         <article>
           <div class="profile float-right">
@@ -136,29 +131,32 @@
 </figure>
 
             <div class="address">
-              <p>Shoichi Koyama, Associate Professor, Ph.D.</p> <p>National Institute of Informatics / SOKENDAI</p> <p>2-1-2 Hitotsubashi, Chiyoda-ku, Tokyo 101-8439, Japan <a href="https://goo.gl/maps/Ku5jU1hfc24nhLDy5" target="_blank" rel="noopener noreferrer"><i class="fas fa-map-marked-alt"></i></a></p> <p><a href="#"><i class="fas fa-envelope"></i>koyama.shoichi<i class="fas fa-at"></i>ieee.org</a></p>
+              <h5>Shoichi Koyama, Ph.D.</h5> <p><em>Associate Professor</em></p> <p>National Institute of Informatics <a href="https://www.nii.ac.jp/en/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a> / SOKENDAI <a href="https://www.soken.ac.jp/en/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a></p> <!-- <p> <a href="https://goo.gl/maps/Ku5jU1hfc24nhLDy5" target="_blank" rel="noopener noreferrer"><i class="fas fa-map-marked-alt"></i></a> 2-1-2 Hitotsubashi, Chiyoda-ku, Tokyo 101-8439, Japan</p> --> <p><a href="https://www.sh01.org" rel="external nofollow noopener" target="_blank"><i class="fas fa-user"></i> https://www.sh01.org</a></p> <p><a href="#"><i class="fas fa-envelope"></i> koyama.shoichi<i class="fas fa-at"></i>ieee.org</a></p>
 
             </div>
           </div>
 
           <div class="clearfix">
-            <p>Welcome to Audio Processing Research Group at <a href="https://www.nii.ac.jp/en/" rel="external nofollow noopener" target="_blank">National Institute of Informatics, Japan</a>. This group led by <a href="https://www.sh01.org" rel="external nofollow noopener" target="_blank">Dr. Shoichi Koyama</a> was created in 2023.</p>
+            <p>Welcome to Audio Processing Research Group at <a href="https://www.nii.ac.jp/en/" rel="external nofollow noopener" target="_blank">National Institute of Informatics, Tokyo, Japan</a>. This group led by <a href="https://www.sh01.org" rel="external nofollow noopener" target="_blank">Prof. Shoichi Koyama</a> was created in 2023.</p>
 
-<p>Our principal research interests are signal processing and machine learning in audio and acoustics. In particular, we develop methodologies for analysis and control of acoustic fields with their applications to spatial audio, noise control, acoustic imaging, and others.</p>
+<p>Our principal research interests are signal processing and machine learning in audio and acoustics. In particular, we develop methodologies for analysis and control of acoustic fields with their applications to virtual/augmented reality audio, noise control, acoustic imaging, and others.</p>
 
-<p>Join our group if interested in our research!</p>
+<p><a href="recruitment/">Join our group</a> if interested in our research!</p>
+
+<h6 id="keywords">Keywords</h6>
+<p>Acoustic signal processing, machine learning for audio, microphone and loudspeaker array processing, spatial audio</p>
 
           </div>
 
           <!-- News -->
-          <h2><a href="/news/" style="color: inherit;">News</a></h2>          <div class="news">
+          <h3><a href="/news/" style="color: inherit;">News</a></h3>          <div class="news">
             <div class="table-responsive">
               <table class="table table-sm table-borderless">
               
                 <tr>
                   <th scope="row">May 8, 2023</th>
                   <td>
-                    Our website was launched.
+                    Our website was launched 🚀
 
                   </td>
                 </tr>
