@@ -2,12 +2,11 @@
 layout: page
 permalink: /recruitment/
 title: Join us
-description: 
-nav: true
-nav_order: 4
+description:
+lang: en 
 ---
 
-## PhD Opportunities
+### PhD Opportunities
 
 [Informatics program, Graduate Institute for Advanced Studies, the Graduate University for Advanced Studies (SOKENDAI)](https://www.nii.ac.jp/graduate/en/) offers PhD opportunities. Find out the details here:
 

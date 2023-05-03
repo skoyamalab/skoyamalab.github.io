@@ -1,19 +1,17 @@
 ---
 layout: about
 title: About
-permalink: /
+permalink: /ja/
 subtitle: 
-lang: en
+lang: ja
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <h5>Shoichi Koyama, Ph.D.</h5>
-    <p><em>Associate Professor</em></p>
-    <p>National Institute of Informatics <a href="https://www.nii.ac.jp/en/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a> / SOKENDAI <a href="https://www.soken.ac.jp/en/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a></p>
-    <!-- <p> <a href="https://goo.gl/maps/Ku5jU1hfc24nhLDy5" target="_blank" rel="noopener noreferrer"><i class="fas fa-map-marked-alt"></i></a> 2-1-2 Hitotsubashi, Chiyoda-ku, Tokyo 101-8439, Japan</p> -->
+    <h5>小山 翔一, Ph.D.</h5>
+    <p>国立情報学研究所 <a href="https://www.nii.ac.jp/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a> / 総合研究大学院大学 <a href="https://www.soken.ac.jp/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a> 准教授</p>
     <p><a href="https://www.sh01.org"><i class="fas fa-user"></i> https://www.sh01.org</a></p>
     <p><a href="#"><i class="fas fa-envelope"></i> koyama.shoichi<i class="fas fa-at"></i>ieee.org</a></p>
 

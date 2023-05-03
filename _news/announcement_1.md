@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our website was launched. 
+Our website was launched 🚀
