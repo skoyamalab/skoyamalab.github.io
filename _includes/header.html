@@ -51,6 +51,15 @@
               {% endfor %}
 
               <!-- About -->
+              {% if page.lang == "ja" %}
+              <li class="nav-item {% if page.permalink == '/ja/' %}active{% endif %}"></li>
+                <a class="nav-link" href="{{ '/ja/' | relative_url }}">{{ about_title }}
+                  {%- if page.permalink == '/ja/' -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+              {% else %}
               <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/' | relative_url }}">{{ about_title }}
                   {%- if page.permalink == '/' -%}
@@ -58,10 +67,15 @@
                   {%- endif -%}
                 </a>
               </li>
+              {%- endif -%}
               {% if site.blog_nav_title %}
               <!-- Blog -->
               <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
+                {% if page.lang == "ja" %}
+                <a class="nav-link" href="{{ '/ja/blog/' | relative_url }}">{{ site.blog_nav_title }}
+                {% else %}
                 <a class="nav-link" href="{{ '/blog/' | relative_url }}">{{ site.blog_nav_title }}
+                {%- endif -%}
                   {%- if page.url contains 'blog' -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
@@ -70,6 +84,39 @@
               {%- endif %}
 
               <!-- Other pages -->
+              {% if page.lang == "ja" %}
+              {%- assign sorted_pages = site.pages | sort: "nav_ja_order" -%}
+              {%- for p in sorted_pages -%}
+              {%- if p.nav_ja and p.autogen == nil -%}
+              {%- if p.dropdown %}
+              <li class="nav-item dropdown {% if page.title == p.title %}active{% endif %}">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ p.title }}
+                  {%- if page.title == p.title -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  {%- for child in p.children -%}
+                  {%- if child.title == 'divider' %}
+                  <div class="dropdown-divider"></div>
+                  {%- else %}
+                  <a class="dropdown-item" href="{{ child.permalink | relative_url }}">{{ child.title }}</a>
+                  {%- endif -%}
+                  {% endfor %}
+                </div>
+              </li>
+              {%- else %}
+              <li class="nav-item {% if page.title == p.title %}active{% endif %}">
+                <a class="nav-link" href="{{ p.url | relative_url }}">{{ p.title }}
+                  {%- if page.title == p.title -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+              {%- endif -%}
+              {%- endif -%}
+              {% endfor -%}
+              {% else %}
               {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
               {%- for p in sorted_pages -%}
               {%- if p.nav and p.autogen == nil -%}
@@ -101,6 +148,21 @@
               {%- endif -%}
               {%- endif -%}
               {% endfor -%}
+              {%- endif -%}
+
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="font-size: 20px"><i class="fas fa-language"></i></a>
+                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  {% if page.lang == "ja" %}
+                    <a class="dropdown-item" href="{{ page.url | remove_first: 'ja/' | relative_url }}">English</a>
+                    <a class="dropdown-item" href="{{ page.url | relative_url }}">日本語</a>
+                  {% else %}
+                    <a class="dropdown-item" href="{{ page.url | relative_url }}">English</a>
+                    <a class="dropdown-item" href="{{ page.url | prepend: 'ja' | relative_url }}">日本語</a>
+                  {% endif %}
+                </div>
+              </li>
+
               {%- if site.enable_darkmode %}
 
               <!-- Toogle theme mode -->

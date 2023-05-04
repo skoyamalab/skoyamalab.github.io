@@ -23,7 +23,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Welcome to Audio Processing Research Group at [National Institute of Informatics, Tokyo, Japan](https://www.nii.ac.jp/en/). This group led by [Prof. Shoichi Koyama](https://www.sh01.org) was created in 2023. 
+Welcome to Audio Processing Research Group at [National Institute of Informatics, Tokyo, Japan](https://www.nii.ac.jp/en/)! This group led by [Prof. Shoichi Koyama](https://www.sh01.org) was created in 2023. 
 
 Our principal research interests are signal processing and machine learning in audio and acoustics. In particular, we develop methodologies for analysis and control of acoustic fields with their applications to virtual/augmented reality audio, noise control, acoustic imaging, and others.
 

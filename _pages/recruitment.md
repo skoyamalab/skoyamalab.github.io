@@ -4,6 +4,8 @@ permalink: /recruitment/
 title: Join us
 description:
 lang: en 
+nav: true
+nav_order: 2
 ---
 
 ### PhD Opportunities

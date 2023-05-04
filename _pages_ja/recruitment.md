@@ -4,8 +4,8 @@ permalink: /ja/recruitment/
 title: Join us
 description:
 lang: ja 
-nav: true
-nav_order: 2
+nav_ja: true
+nav_ja_order: 2
 ---
 
 ### 大学院入学案内
