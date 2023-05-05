@@ -110,7 +110,7 @@ contact_note:
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics:  G-C48L6HXTLC # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics:  G-X1BN9S7X4E # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
 google_site_verification:  # your google-site-verification ID (Google Search Console)
