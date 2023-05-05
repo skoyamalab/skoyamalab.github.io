@@ -18,14 +18,14 @@ profile:
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 [国立情報学研究所](https://www.nii.ac.jp/) 音響メディア処理グループ（小山研究室）のウェブサイトへようこそ！[小山翔一 准教授](https://www.sh01.org/ja/)が主宰者(PI)を務める当研究室は，2023年4月に設立されました。
 
-我々の主要な研究トピックは，音響メディアのための信号処理・機械学習技術です。特に，音空間の解析・制御のための新しい方法論，およびそれらのVR/AR音響，騒音制御，イメージングなどへの応用について取り組んでいます。
+私たちの主要な研究トピックは，音響メディアのための信号処理・機械学習技術です。特に，音空間の解析・制御のための新しい方法論，およびそれらのVR/AR音響，騒音制御，イメージングなどへの応用について取り組んでいます。
 
-我々の研究室へ参加することに興味を持たれた方は，[Join us](ja/recruitment/)のページをご覧ください。
+当研究室へ参加することに興味を持たれた方は，[Join us](ja/recruitment/)のページをご覧ください。
 
 ###### キーワード
 音響信号処理，音メディアのための機械学習，マイク・スピーカアレイ処理，空間音響
