@@ -11,7 +11,7 @@ profile:
   image_circular: true # crops the image to make it circular
   address: >
     <h5>小山 翔一, Ph.D.</h5>
-    <p>国立情報学研究所 <a href="https://www.nii.ac.jp/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a> / 総合研究大学院大学 <a href="https://www.soken.ac.jp/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a> 准教授</p>
+    <p>国立情報学研究所 <a href="https://www.nii.ac.jp/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a> / 総研大 <a href="https://www.soken.ac.jp/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a> 准教授</p>
     <p><a href="https://www.sh01.org/ja/"><i class="fas fa-user"></i> https://www.sh01.org/</a></p>
     <p><a href="#"><i class="fas fa-envelope"></i> koyama.shoichi<i class="fas fa-at"></i>ieee.org</a></p>
 
