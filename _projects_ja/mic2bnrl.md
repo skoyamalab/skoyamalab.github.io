@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /ja/projects/mic2bnrl/
 title: マイクアレイ信号からのバイノーラル再現
 description: 
 img: assets/img/micarray2binaural.png
