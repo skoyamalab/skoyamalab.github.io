@@ -16,7 +16,7 @@ importance: 1
 ##### Demo
 
 <div class="ifrm_wrap">
-<iframe src="https://www.youtube.com/embed/7ymP5Ey9uuM" style="margin: 1rem;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7ymP5Ey9uuM" style="margin: 1rem;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ##### References
