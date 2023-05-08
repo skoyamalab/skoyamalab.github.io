@@ -15,7 +15,9 @@ importance: 2
 
 ### Demo
 
+<div class="ifrm_wrap">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oYw7kmpZcY4" style="margin: 1rem;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ##### References
 - Takumi Abe, Shoichi Koyama, Natsuki Ueno, and Hiroshi Saruwatari, "Amplitude Matching for Multizone Sound Field Control," *IEEE/ACM Trans. Audio, Speech, Lang. Process.*, vol. 31, pp. 656-669, 2023. <a href="https://doi.org/10.1109/TASLP.2022.3231715" target="_blank"><i class="fas fa-external-link-alt"></i></a>

@@ -15,7 +15,9 @@ importance: 1
 
 ##### Demo
 
+<div class="ifrm_wrap">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7ymP5Ey9uuM" style="margin: 1rem;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ##### References
 - N. Iijima, S. Koyama, and H. Saruwatari, "Binaural Rendering from Microphone Array Signals of Arbitrary Geometry," *J. Acoust. Soc. Amer.*, vol. 150, no. 4, pp. 2479-2491, 2021. <a href="https://doi.org/10.1121/10.0006538" target="_blank"><i class="fas fa-external-link-alt"></i></a>
