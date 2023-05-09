@@ -996,8 +996,9 @@ nav[data-toggle="toc"] {
 
 /* wrapping iframe */
 .ifrm_wrap{
-  width: 80%;
+  width: 100%;
   aspect-ratio: 16/9;
+  margin: 1rem;
 }
 
 .ifrm_wrap iframe{
