@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /ja/projects/sfr/
 title: スピーカアレイによる音場再現
 description: 
 img: assets/img/sfr_circ.gif

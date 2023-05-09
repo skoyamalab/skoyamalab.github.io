@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /ja/projects/psz/
 title: マルチゾーン音場合成によるエリア再生
 description: 
 img: assets/img/psz.png

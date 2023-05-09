@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /ja/projects/spatial_anc/
 title: 空間アクティブ騒音制御
 description: 
 img: assets/img/spatial_anc.png
