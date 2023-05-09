@@ -20,7 +20,7 @@ nav_ja_order: 1
 
 <div class="projects">
 <!-- Display projects without categories -->
-{%- assign sorted_projects = site.projects | sort: "importance" -%}
+{%- assign sorted_projects = site.projects_ja | sort: "importance" -%}
 <!-- Generate cards for each project -->
 {% if page.horizontal -%}
 <div class="container">

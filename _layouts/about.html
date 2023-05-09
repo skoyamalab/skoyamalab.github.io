@@ -42,7 +42,11 @@ layout: default
 
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
-          <h3><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h3>
+            {% if page.lang == "ja" %}
+            <h3><a href="{{ '/ja/news/' | relative_url }}" style="color: inherit;">News</a></h3>
+            {%- else -%}
+            <h3><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h3>
+            {%- endif %}
           {%- include news.html limit=true %}
           {%- endif %}
 
