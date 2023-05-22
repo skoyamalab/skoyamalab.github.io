@@ -167,13 +167,13 @@ permalink: #/blog/:year/:title/
 
 collections:
   news:
-    defaults:
-      layout: post
+    #defaults:
+    #  layout: post
     output: true
     permalink: /news/:path/
   news_ja:
-    defaults:
-      layout: post
+    #defaults:
+    #  layout: post
     output: true
     permalink: /ja/news/:path/
   projects:
