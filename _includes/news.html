@@ -6,9 +6,9 @@
                 <table class="table table-sm table-borderless">
                 {%- assign news = site.news_ja | reverse -%}
                 {% if include.limit and site.announcements.limit %}
-                {% assign news_limit = site.announcements.limit %}
+                  {% assign news_limit = site.announcements.limit %}
                 {% else %}
-                {% assign news_limit = news_size %}
+                  {% assign news_limit = news_size %}
                 {% endif %}
                 {% for item in news limit: news_limit %}
                   <tr>
@@ -24,9 +24,9 @@
                 {%- endfor %}
                 </table>
               </div>
-            {%- else -%}
-              <p>No news so far...</p>
-            {%- endif %}
+              {%- else -%}
+                <p>No news so far...</p>
+              {%- endif %}
             {% else %}
               {% if site.news != blank -%}
               {%- assign news_size = site.news | size -%}
@@ -34,9 +34,9 @@
                 <table class="table table-sm table-borderless">
                 {%- assign news = site.news | reverse -%}
                 {% if include.limit and site.announcements.limit %}
-                {% assign news_limit = site.announcements.limit %}
+                  {% assign news_limit = site.announcements.limit %}
                 {% else %}
-                {% assign news_limit = news_size %}
+                  {% assign news_limit = news_size %}
                 {% endif %}
                 {% for item in news limit: news_limit %}
                   <tr>
@@ -52,8 +52,8 @@
                 {%- endfor %}
                 </table>
               </div>
-            {%- else -%}
-              <p>No news so far...</p>
-            {%- endif %}
-          {% endif %}
+              {%- else -%}
+                <p>No news so far...</p>
+              {%- endif %}
+            {% endif %}
           </div>
