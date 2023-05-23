@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IEEE ICASSP 2023で3件の発表があります！
+title: IEEE ICASSP 2023で3件の発表があります 🇬🇷
 date: 2023-5-29 10:00:00+0900
 inline: false
 related_posts: false

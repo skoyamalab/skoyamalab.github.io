@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Three presentations from our team at IEEE ICASSP 2023!
+title: Three presentations from our team at IEEE ICASSP 2023 🇬🇷
 date: 2023-5-29 10:00:00+0900
 inline: false
 related_posts: false
