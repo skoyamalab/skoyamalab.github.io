@@ -1,12 +1,12 @@
 ---
 layout: post
-title: IEEE ICASSP 2023で3件の発表があります 🇬🇷
-date: 2023-5-29 10:00:00+0900
+title: Three presentations from our team at IEEE ICASSP 2023 🇬🇷
+date: 2023-5-25 10:00:00+0900
 inline: false
 related_posts: false
 ---
 
-6/4-10にギリシャ・ロードスで開催される[IEEE ICASSP 2023](https://2023.ieeeicassp.org/)において，３件の発表があります。 
+Our team has three presentations at [IEEE ICASSP 2023](https://2023.ieeeicassp.org/) held in Rhodes Island, Greece from 4th June to 10th. 
 
 ***
 
