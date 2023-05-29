@@ -8,6 +8,9 @@ nav: true
 nav_order: 3
 ---
 
+### Job Openings
+- Project Researcher (Postdoctoral Fellow): [https://www.nii.ac.jp/en/about/recruit/2023/0529.html](https://www.nii.ac.jp/en/about/recruit/2023/0529.html)
+
 ### PhD Opportunities
 
 [Informatics program, Graduate Institute for Advanced Studies, the Graduate University for Advanced Studies (SOKENDAI)](https://www.nii.ac.jp/graduate/en/) offers PhD opportunities. Find out the details here:
