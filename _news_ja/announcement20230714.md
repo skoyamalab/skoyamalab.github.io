@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-研究室から２件の論文が[IEEE WASPAA 2023](https://waspaa.com/)に採択されました！
+[IEEE WASPAA 2023](https://waspaa.com/)に２件の論文が採択されました！

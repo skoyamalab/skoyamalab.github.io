@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers has been accepted to [IEEE WASPAA 2023](https://waspaa.com/) from our lab!
+Two papers has been accepted to [IEEE WASPAA 2023](https://waspaa.com/) from our team!

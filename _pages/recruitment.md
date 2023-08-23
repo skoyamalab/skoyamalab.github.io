@@ -5,11 +5,11 @@ title: Join us
 description:
 lang: en 
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 ### Job Openings
-- Project Researcher (Postdoctoral Fellow): [https://www.nii.ac.jp/en/about/recruit/2023/0529.html](https://www.nii.ac.jp/en/about/recruit/2023/0529.html)
+- ~~Project Researcher (Postdoctoral Fellow): [https://www.nii.ac.jp/en/about/recruit/2023/0529.html](https://www.nii.ac.jp/en/about/recruit/2023/0529.html)~~
 
 ### PhD Opportunities
 
