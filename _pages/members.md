@@ -10,9 +10,9 @@ nav_order: 1
 
 ### Staff
 
-<div class="profile float-left">
+<div class="members float-left">
     {% include figure.html
-        path='assets/img/prof_pic.jpg'
+        path='assets/img/skoyama.jpg'
         class="img-fluid z-depth-1 rounded-circle"
         alt='Shoichi Koyama' -%}
     <div class="address">
@@ -27,7 +27,7 @@ nav_order: 1
 
 ### Students
 
-<div class="profile float-left">
+<div class="members float-left">
     {% include figure.html
         path='assets/img/default_avatar.png'
         class="img-fluid z-depth-1 rounded-circle"
@@ -39,7 +39,7 @@ nav_order: 1
     </div>
 </div>
 
-<div class="profile float-left">
+<div class="members float-left">
     {% include figure.html
         path='assets/img/default_avatar.png'
         class="img-fluid z-depth-1 rounded-circle"

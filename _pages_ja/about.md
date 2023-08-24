@@ -8,12 +8,11 @@ lang: ja
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
-    <h5>小山 翔一, Ph.D.</h5>
-    <p>国立情報学研究所 <a href="https://www.nii.ac.jp/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a> / 総研大 <a href="https://www.soken.ac.jp/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a> 准教授</p>
-    <p><a href="https://www.sh01.org/ja/"><i class="fas fa-user"></i> https://www.sh01.org/</a></p>
-    <p><a href="#"><i class="fas fa-envelope"></i> koyama.shoichi<i class="fas fa-at"></i>ieee.org</a></p>
+    <p>国立情報学研究所 <a href="https://www.nii.ac.jp/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a> / 総合研究大学院大学 <a href="https://www.soken.ac.jp/" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a></p>
+    <p>小山研究室 <a href="https://goo.gl/maps/Ku5jU1hfc24nhLDy5" target="_blank" rel="noopener noreferrer"><i class="fas fa-map-marked-alt"></i></a></p>
+    <!-- <p>〒101-8439 東京都千代田区一ツ橋2-1-2<a href="https://goo.gl/maps/Ku5jU1hfc24nhLDy5" target="_blank" rel="noopener noreferrer"><i class="fas fa-map-marked-alt"></i></a></p> -->
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
