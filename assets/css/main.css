@@ -237,13 +237,15 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    /*width: 30%;*/
+    width: 40%;
   }
   .profile figure {
     text-align: center;
   }
   .profile img {
-    width: 80%;
+    /*width: 80%;*/
+    width: 90%;
   }
   .profile .address p {
     display: block;
@@ -261,6 +263,49 @@ blockquote {
   text-decoration: none;
 }
 
+.members {
+  width: 100%;
+}
+.members figure {
+  text-align: center;
+}
+.members img {
+  width: 60%;
+}
+.members .address {
+  margin-bottom: 5px;
+  margin-top: 5px;
+  /* font-family: monospace; */
+}
+.members .address p {
+  display: inline-block;
+  margin: 0;
+}
+
+.members.float-right {
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+}
+
+.members.float-left {
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+}
+
+@media (min-width: 576px) {
+  .members {
+    width: 25%;
+  }
+  .members figure {
+    text-align: center;
+  }
+  .members img {
+    width: 80%;
+  }
+  .members .address p {
+    display: block;
+  }
+}
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
