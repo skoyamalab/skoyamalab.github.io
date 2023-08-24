@@ -270,7 +270,8 @@ blockquote {
   text-align: center;
 }
 .members img {
-  width: 60%;
+  /*width: 60%;*/
+  width: 70%;
 }
 .members .address {
   margin-bottom: 5px;
