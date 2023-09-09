@@ -29,7 +29,7 @@ nav_ja_order: 1
 
 <div class="members float-left">
     {% include figure.html
-        path='assets/img/default_avatar.png'
+        path='assets/img/jribeiro.jpg'
         class="img-fluid z-depth-1 rounded-circle"
         alt='Juliano G. C. Ribeiro' -%}
     <div class="address">
