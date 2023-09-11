@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /members/
-title: Members
+permalink: /people/
+title: People
 description:
 lang: en 
 nav: true

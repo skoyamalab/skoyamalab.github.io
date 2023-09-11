@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /ja/members/
-title: Members
+permalink: /ja/people/
+title: People
 description:
 lang: ja 
 nav_ja: true
