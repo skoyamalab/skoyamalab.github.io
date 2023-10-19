@@ -15,3 +15,6 @@ nav_ja_order: 3
 
 ##### ~~インタラクティブメディア~~
 
+##### メディア処理基礎
+- 10/31(火): Fumdamentals of Signal Processing (Part 1)
+- 11/7(火): Fumdamentals of Signal Processing (Part 2)

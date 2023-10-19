@@ -15,3 +15,6 @@ nav_order: 3
 
 ##### ~~Interactive Media~~
 
+##### Fundamentals of Media Processing
+- 31 Oct. (Tue): Fumdamentals of Signal Processing (Part 1)
+- 7 Nov. (Tue): Fumdamentals of Signal Processing (Part 2)
