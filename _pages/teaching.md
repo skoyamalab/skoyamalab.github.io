@@ -13,8 +13,8 @@ nav_order: 3
 ##### Introduction to Multimedia Information Science
 - 17 May (Wed): Introduction to Signal Processing and Machiene Learning for Audio and Acoustics
 
-##### ~~Interactive Media~~
+##### ~~Interactive Media~~ (Canceled)
 
 ##### Fundamentals of Media Processing
-- 31 Oct. (Tue): Fumdamentals of Signal Processing (Part 1)
-- 7 Nov. (Tue): Fumdamentals of Signal Processing (Part 2)
+- 31 Oct. (Tue): Fumdamentals of Signal Processing (Part 1) [<i class="fas fa-file-powerpoint"></i>](/assets/pdf/teaching/fund-media-proc2023-1.pdf)
+- 7 Nov. (Tue): Fumdamentals of Signal Processing (Part 2) [<i class="fas fa-file-powerpoint"></i>](/assets/pdf/teaching/fund-media-proc2023-2.pdf)
