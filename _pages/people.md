@@ -29,7 +29,7 @@ nav_order: 1
 
 <div class="members float-left">
     {% include figure.html
-        path='assets/img/mpezzoli.jpg'
+        path='assets/img/mpezzoli.png'
         class="img-fluid z-depth-1 rounded-circle"
         alt='Shoichi Koyama' -%}
     <div class="address">
