@@ -25,6 +25,22 @@ nav_ja_order: 1
 
 <p style="clear:both"></p>
 
+### 客員研究員
+
+<div class="members float-left">
+    {% include figure.html
+        path='assets/img/mpezzoli.jpg'
+        class="img-fluid z-depth-1 rounded-circle"
+        alt='Shoichi Koyama' -%}
+    <div class="address">
+        <h5>Mirco Pezzoli, Ph.D.</h5>
+        <p>客員研究員 (Assistant Professor, ミラノ工科大学)</p>
+        <p><a href="https://www.deib.polimi.it/eng/people/details/1156490"><i class="fas fa-user"></i> https://www.deib.polimi.it/eng/people/details/1156490</a></p>
+    </div>
+</div>
+
+<p style="clear:both"></p>
+
 ### 学生
 
 <div class="members float-left">
@@ -53,7 +69,7 @@ nav_ja_order: 1
 
 <p style="clear:both"></p>
 
-### 卒業生
+### 過去のメンバー
 - 重見 和秀 (修士, 東京大学, 2021-2023)
 - 有川 和志 (修士, 東京大学, 2021-2023)
 - 伊藤 悠貴 (修士, 東京大学, 2021-2023)

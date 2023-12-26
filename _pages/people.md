@@ -25,6 +25,22 @@ nav_order: 1
 
 <p style="clear:both"></p>
 
+### Visiting scholars
+
+<div class="members float-left">
+    {% include figure.html
+        path='assets/img/mpezzoli.jpg'
+        class="img-fluid z-depth-1 rounded-circle"
+        alt='Shoichi Koyama' -%}
+    <div class="address">
+        <h5>Mirco Pezzoli, Ph.D.</h5>
+        <p><em>Visiting Researcher (Assistant Professor, Polytechnic University of Milan)</em></p>
+        <p><a href="https://www.deib.polimi.it/eng/people/details/1156490"><i class="fas fa-user"></i> https://www.deib.polimi.it/eng/people/details/1156490</a></p>
+    </div>
+</div>
+
+<p style="clear:both"></p>
+
 ### Students
 
 <div class="members float-left">
@@ -53,7 +69,7 @@ nav_order: 1
 
 <p style="clear:both"></p>
 
-### Alumni
+### Past people
 - Kazuhide Shigemi (Master, The University of Tokyo, 2021-2023)
 - Kazuyuki Arikawa (Master, The University of Tokyo, 2021-2023)
 - Yuki Ito (Master, The University of Tokyo, 2021-2023)
