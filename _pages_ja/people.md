@@ -31,7 +31,7 @@ nav_ja_order: 1
     {% include figure.html
         path='assets/img/mpezzoli.png'
         class="img-fluid z-depth-1 rounded-circle"
-        alt='Shoichi Koyama' -%}
+        alt='Mirco Pezzoli' -%}
     <div class="address">
         <h5>Mirco Pezzoli, Ph.D.</h5>
         <p>客員研究員 (Assistant Professor, ミラノ工科大学)</p>
