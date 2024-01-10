@@ -23,6 +23,17 @@ nav_order: 1
     </div>
 </div>
 
+<div class="members float-left">
+    {% include figure.html
+        path='assets/img/default_avatar.png'
+        class="img-fluid z-depth-1 rounded-circle"
+        alt='Akiko Nichogi' -%}
+    <div class="address">
+        <h5>Akiko Nichogi</h5>
+        <p><em>Secretary</em></p>
+    </div>
+</div>
+
 <p style="clear:both"></p>
 
 ### Visiting scholars

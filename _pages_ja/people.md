@@ -23,6 +23,17 @@ nav_ja_order: 1
     </div>
 </div>
 
+<div class="members float-left">
+    {% include figure.html
+        path='assets/img/default_avatar.png'
+        class="img-fluid z-depth-1 rounded-circle"
+        alt='Akiko Nichogi' -%}
+    <div class="address">
+        <h5>二梃木 朗子</h5>
+        <p><em>事務補佐員</em></p>
+    </div>
+</div>
+
 <p style="clear:both"></p>
 
 ### 客員研究員
