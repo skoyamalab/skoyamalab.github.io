@@ -30,7 +30,7 @@ nav_ja_order: 1
         alt='Akiko Nichogi' -%}
     <div class="address">
         <h5>二梃木 朗子</h5>
-        <p><em>事務補佐員</em></p>
+        <p>事務補佐員</p>
     </div>
 </div>
 
