@@ -31,6 +31,7 @@ nav_order: 1
     <div class="address">
         <h5>Akiko Nichogi</h5>
         <p><em>Secretary</em></p>
+        <p><a href="#"><i class="fas fa-envelope"></i> skoyamalab-sec<i class="fas fa-at"></i>nii.ac.jp</a></p>
     </div>
 </div>
 
