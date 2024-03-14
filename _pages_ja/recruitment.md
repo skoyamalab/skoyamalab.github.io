@@ -5,7 +5,7 @@ title: Join us
 description:
 lang: ja 
 nav_ja: true
-nav_ja_order: 4
+nav_ja_order: 5
 ---
 
 #### 求人案内

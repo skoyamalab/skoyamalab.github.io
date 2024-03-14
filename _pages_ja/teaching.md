@@ -5,7 +5,7 @@ title: Teaching
 description:
 lang: ja 
 nav_ja: true
-nav_ja_order: 3
+nav_ja_order: 4
 ---
 
 ### 2023年度
