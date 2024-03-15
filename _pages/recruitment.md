@@ -37,4 +37,4 @@ There are several enrollment options for international students.
 
 ---
 
-Feel free to contact us (koyama.shoichi<i class="fas fa-at"></i>ieee.org) if interested.
+Feel free to contact us (skoyamalab-sec<i class="fas fa-at"></i>nii.ac.jp) if interested.
