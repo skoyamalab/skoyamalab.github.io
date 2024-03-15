@@ -11,6 +11,6 @@ nav_ja_order: 2
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography --file skoyamalab_en %}
+{% bibliography --file skoyamalab_ja %}
 
 </div>
