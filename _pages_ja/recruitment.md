@@ -10,7 +10,7 @@ nav_ja_order: 5
 
 #### 求人案内
 
-- ~~特任研究員（特定有期雇用職員・ポスドク相当）募集: [https://www.nii.ac.jp/about/recruit/2023/0529.html](https://www.nii.ac.jp/about/recruit/2023/0529.html)~~
+- 特任研究員（特定有期雇用職員・ポスドク相当）募集: [https://www.nii.ac.jp/about/recruit/2024/0315.html](https://www.nii.ac.jp/about/recruit/2024/0315.html)
 
 ---
 

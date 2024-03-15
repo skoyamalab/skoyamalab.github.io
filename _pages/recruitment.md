@@ -10,7 +10,7 @@ nav_order: 5
 
 #### Job Openings
 
-- ~~Project Researcher (Postdoctoral Fellow): [https://www.nii.ac.jp/en/about/recruit/2023/0529.html](https://www.nii.ac.jp/en/about/recruit/2023/0529.html)~~
+- Project Researcher (Postdoctoral Fellow): [https://www.nii.ac.jp/en/about/recruit/2024/0315.html](https://www.nii.ac.jp/en/about/recruit/2024/0315.html)
 
 ---
 
