@@ -11,6 +11,8 @@ related_posts: false
 
 ***
 
-<div style="font-weight:bolder">"Localizing Acoustic Energy in Sound Field Synthesis by Directionally Weighted Exterior Radiation Suppression" by Y. Tomita, S. Koyama, and H. Saruwatari</div>
-- Paper 📝: [https://arxiv.org/pdf/2401.05809.pdf](https://arxiv.org/pdf/2401.05809.pdf)
+<div style="font-weight:bolder">Localizing Acoustic Energy in Sound Field Synthesis by Directionally Weighted Exterior Radiation Suppression</div>
+Y. Tomita, S. Koyama, and H. Saruwatari
+- Paper 📝: [https://doi.org/10.1109/ICASSP48485.2024.10448224](https://doi.org/10.1109/ICASSP48485.2024.10448224)
+- Arxiv 📝: [https://arxiv.org/abs/2401.05809](https://arxiv.org/abs/2401.05809)
 - Session 🧑‍💻: 16:00-18:00, 17 Apr. ([AASP-L6](https://cmsworkshops.com/ICASSP2024/view_session.php?SessionID=1011))
