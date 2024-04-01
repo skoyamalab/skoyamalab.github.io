@@ -43,18 +43,6 @@ nav_order: 1
 
 <div class="members float-left">
     {% include figure.html
-        path='assets/img/jribeiro.jpg'
-        class="img-fluid z-depth-1 rounded-circle"
-        alt='Juliano Garcia do Carmo Ribeiro' -%}
-    <div class="address">
-        <h5>Juliano Garcia do Carmo Ribeiro</h5>
-        <p><em>Doctoral Student (UTokyo)</em></p>
-        <p><a href="#"><i class="fas fa-envelope"></i> ribeiro-juliano<i class="fas fa-at"></i>g.ecc.u-tokyo.ac.jp</a></p>
-    </div>
-</div>
-
-<div class="members float-left">
-    {% include figure.html
         path='assets/img/default_avatar.png'
         class="img-fluid z-depth-1 rounded-circle"
         alt='Kota Yamano' -%}
@@ -83,6 +71,7 @@ nav_order: 1
 <p style="clear:both"></p>
 
 ### Past people
+- Juliano G. C. Ribeiro (Master/Ph.D., The University of Tokyo, 2019-2024)
 - [Mirco Pezzoli](https://www.deib.polimi.it/eng/people/details/1156490) (Visiting researcher from Polytechnic University of Milan, Italy, 2023-2024)
 - Kazuhide Shigemi (Master, The University of Tokyo, 2021-2023)
 - Kazuyuki Arikawa (Master, The University of Tokyo, 2021-2023)
