@@ -33,4 +33,4 @@ NIIでは，NIIとMOUを締結している機関に所属する博士/修士課�
 
 ---
 
-興味のある方は，まずはメール（skoyamalab-sec<i class="fas fa-at"></i>nii.ac.jp）にてご連絡ください。
+興味のある方は，まずはメール（<a href="">skoyamalab-sec<i class="fas fa-at"></i>nii.ac.jp</a>）にてご連絡ください。

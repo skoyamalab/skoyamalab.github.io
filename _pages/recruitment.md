@@ -37,4 +37,4 @@ There are several enrollment options for international students.
 
 ---
 
-Feel free to contact us (skoyamalab-sec<i class="fas fa-at"></i>nii.ac.jp) if interested.
+Feel free to contact us (<a href="">skoyamalab-sec<i class="fas fa-at"></i>nii.ac.jp</a>) if interested.
