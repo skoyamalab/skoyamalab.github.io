@@ -10,6 +10,8 @@ nav_ja_order: 1
 
 ### スタッフ
 
+---
+
 <div class="members float-left">
     {% include figure.html
         path='assets/img/skoyama.jpg'
@@ -41,6 +43,8 @@ nav_ja_order: 1
 
 ### 学生
 
+---
+
 <div class="members float-left">
     {% include figure.html
         path='assets/img/default_avatar.png'
@@ -55,22 +59,12 @@ nav_ja_order: 1
 
 <p style="clear:both"></p>
 
-### インターン
-
-<div class="members float-left">
-    {% include figure.html
-        path='assets/img/dsundstroem.jpg'
-        class="img-fluid z-depth-1 rounded-circle"
-        alt='David Sundström' -%}
-    <div class="address">
-        <h5>David Sundström</h5>
-        <p>インターン (Lund University, スウェーデン)</p>
-    </div>
-</div>
-
-<p style="clear:both"></p>
+<!-- ### インターン -->
 
 ### 過去のメンバー
+
+---
+
 - [David Sundström](https://portal.research.lu.se/en/persons/david-sundstr%C3%B6m) (インターン, Lund Uniersity, Sweden, 2024)
 - Juliano G. C. Ribeiro (修士/博士, 東京大学, 2019-2024)
 - [Mirco Pezzoli](https://www.deib.polimi.it/eng/people/details/1156490) (客員研究員, Polytechnic University of Milan, Italy, 2023-2024)

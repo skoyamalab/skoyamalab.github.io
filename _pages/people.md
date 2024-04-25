@@ -10,6 +10,8 @@ nav_order: 1
 
 ### Staff
 
+---
+
 <div class="members float-left">
     {% include figure.html
         path='assets/img/skoyama.jpg'
@@ -41,6 +43,8 @@ nav_order: 1
 
 ### Students
 
+---
+
 <div class="members float-left">
     {% include figure.html
         path='assets/img/default_avatar.png'
@@ -58,6 +62,9 @@ nav_order: 1
 <!-- ### Interns -->
 
 ### Past people
+
+---
+
 - [David Sundström](https://portal.research.lu.se/en/persons/david-sundstr%C3%B6m) (Intern, Lund University, Sweden, 2024)
 - Juliano G. C. Ribeiro (Master/Ph.D., The University of Tokyo, 2019-2024)
 - [Mirco Pezzoli](https://www.deib.polimi.it/eng/people/details/1156490) (Visiting researcher from Polytechnic University of Milan, Italy, 2023-2024)

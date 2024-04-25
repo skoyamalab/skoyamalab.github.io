@@ -10,16 +10,16 @@ nav_ja_order: 4
 
 ### 2024年度
 
+---
+
 ##### 情報メディア概論
 - 5/15(水): Introduction to Signal Processing and Machiene Learning for Audio and Acoustics
 
 <br />
 
----
-
-<br />
-
 ### 2023年度
+
+---
 
 ##### 情報メディア概論
 - 5/17(水): Introduction to Signal Processing and Machiene Learning for Audio and Acoustics

@@ -10,16 +10,16 @@ nav_order: 4
 
 ### AY2024
 
+---
+
 ##### Introduction to Multimedia Information Science
 - 15 May (Wed): Introduction to Signal Processing and Machiene Learning for Audio and Acoustics
 
 <br />
 
----
-
-<br />
-
 ### AY2023
+
+---
 
 ##### Introduction to Multimedia Information Science
 - 17 May (Wed): Introduction to Signal Processing and Machiene Learning for Audio and Acoustics
