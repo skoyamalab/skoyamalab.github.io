@@ -12,8 +12,6 @@ nav_order: 5
 
 - Project Researcher (Postdoctoral Fellow): [https://www.nii.ac.jp/en/about/recruit/2024/0315.html](https://www.nii.ac.jp/en/about/recruit/2024/0315.html)
 
-<br />
-
 ---
 
 <br />
@@ -28,8 +26,6 @@ NII offers International Internship Program for Ph.D./Master students from insti
     - [https://www.nii.ac.jp/en/about/international/mouresearch/internship2024-1/index.html](https://www.nii.ac.jp/en/about/international/mouresearch/internship2024-1/index.html)
 
 If you are interested but not a student from institutions having an MOU agreement with NII, please contact us. 
-
-<br />
 
 ---
 
