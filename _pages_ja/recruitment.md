@@ -12,7 +12,11 @@ nav_ja_order: 5
 
 - 特任研究員（特定有期雇用職員・ポスドク相当）募集: [https://www.nii.ac.jp/about/recruit/2024/0315.html](https://www.nii.ac.jp/about/recruit/2024/0315.html)
 
+<br />
+
 ---
+
+<br />
 
 #### インターンシップ案内
 
@@ -25,7 +29,11 @@ NIIでは，NIIとMOUを締結している機関に所属する博士/修士課�
 
 興味のある方で，NIIとMOUを締結している機関以外に所属する方は，メールにてご相談ください。
 
+<br />
+
 ---
+
+<br />
 
 #### 大学院入学案内
 
@@ -33,6 +41,10 @@ NIIでは，NIIとMOUを締結している機関に所属する博士/修士課�
 
 - [https://www.soken.ac.jp/admission/application_info/informatics/index.html](https://www.soken.ac.jp/admission/application_info/informatics/index.html)
 
+<br />
+
 ---
+
+<br />
 
 興味のある方は，まずはメール（<a href="">skoyamalab-sec<i class="fas fa-at"></i>nii.ac.jp</a>）にてご連絡ください。
