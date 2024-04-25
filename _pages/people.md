@@ -55,22 +55,10 @@ nav_order: 1
 
 <p style="clear:both"></p>
 
-### Interns
-
-<div class="members float-left">
-    {% include figure.html
-        path='assets/img/dsundstroem.jpg'
-        class="img-fluid z-depth-1 rounded-circle"
-        alt='David Sundström' -%}
-    <div class="address">
-        <h5>David Sundström</h5>
-        <p><em>Intern from Lund University, Sweden</em></p>
-    </div>
-</div>
-
-<p style="clear:both"></p>
+<!-- ### Interns -->
 
 ### Past people
+- [David Sundström](https://portal.research.lu.se/en/persons/david-sundstr%C3%B6m) (Intern, Lund University, Sweden, 2024)
 - Juliano G. C. Ribeiro (Master/Ph.D., The University of Tokyo, 2019-2024)
 - [Mirco Pezzoli](https://www.deib.polimi.it/eng/people/details/1156490) (Visiting researcher from Polytechnic University of Milan, Italy, 2023-2024)
 - Kazuhide Shigemi (Master, The University of Tokyo, 2021-2023)

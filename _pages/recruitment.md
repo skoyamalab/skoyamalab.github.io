@@ -20,6 +20,8 @@ NII offers International Internship Program for Ph.D./Master students from insti
 
 - ~~2nd Call of 2023 "NII International Internship Program" (Deadline: Oct. 25, 2023):~~
     - ~~[https://www.nii.ac.jp/en/about/international/mouresearch/internship2023-2/](https://www.nii.ac.jp/en/about/international/mouresearch/internship2023-2/)~~
+- 1st Call of 2024  "NII International Internship Program" (Deadline: May 17, 2024):
+    - [https://www.nii.ac.jp/en/about/international/mouresearch/internship2024-1/index.html](https://www.nii.ac.jp/en/about/international/mouresearch/internship2024-1/index.html)
 
 If you are interested but not a student from institutions having an MOU agreement with NII, please contact us. 
 

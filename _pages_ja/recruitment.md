@@ -20,6 +20,8 @@ NIIでは，NIIとMOUを締結している機関に所属する博士/修士課�
 
 - ~~2nd Call of 2023 "NII International Internship Program" (Deadline: Oct. 25, 2023):~~
     - ~~[https://www.nii.ac.jp/en/about/international/mouresearch/internship2023-2/](https://www.nii.ac.jp/en/about/international/mouresearch/internship2023-2/)~~
+- 1st Call of 2024  "NII International Internship Program" (Deadline: May 17, 2024):
+    - [https://www.nii.ac.jp/en/about/international/mouresearch/internship2024-1/index.html](https://www.nii.ac.jp/en/about/international/mouresearch/internship2024-1/index.html)
 
 興味のある方で，NIIとMOUを締結している機関以外に所属する方は，メールにてご相談ください。
 

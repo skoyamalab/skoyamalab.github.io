@@ -71,6 +71,7 @@ nav_ja_order: 1
 <p style="clear:both"></p>
 
 ### 過去のメンバー
+- [David Sundström](https://portal.research.lu.se/en/persons/david-sundstr%C3%B6m) (インターン, Lund Uniersity, Sweden, 2024)
 - Juliano G. C. Ribeiro (修士/博士, 東京大学, 2019-2024)
 - [Mirco Pezzoli](https://www.deib.polimi.it/eng/people/details/1156490) (客員研究員, Polytechnic University of Milan, Italy, 2023-2024)
 - 重見 和秀 (修士, 東京大学, 2021-2023)
