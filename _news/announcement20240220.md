@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Mr. David Sundström (Lund University, Sweden) joined out lab as an intern 🚀
+Mr. David Sundström (Lund University, Sweden) joined our lab as an intern 🚀
