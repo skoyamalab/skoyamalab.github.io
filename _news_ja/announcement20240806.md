@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-[小山准教授がNII研究100連発に登壇しました 🧑‍🏫](https://event.nii.ac.jp/event/8890/module/booth/249956/206468)
+[小山准教授がNII研究100連発に登壇しました 🧑‍🏫](https://youtu.be/C5mmF5BE2iU)

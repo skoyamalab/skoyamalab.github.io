@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-[Prof. Koyama delivered a talk at NII 100 researches 🧑‍🏫](https://event.nii.ac.jp/event/8890/module/booth/249956/206468)
+[Prof. Koyama delivered a talk at NII 100 researches 🧑‍🏫](https://youtu.be/C5mmF5BE2iU)
