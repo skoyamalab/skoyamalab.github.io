@@ -38,25 +38,7 @@ nav_order: 1
 </div>
 
 <p style="clear:both"></p>
-<!--
-### Visiting scholars
 
----
-
-<div class="members float-left">
-    {% include figure.html
-        path='assets/img/ychen.jpg'
-        class="img-fluid z-depth-1 rounded-circle"
-        alt='Yi-Chao Chen' -%}
-    <div class="address">
-        <h5>Yi-Chao Chen</h5>
-        <p><em>Visiting researcher from Shanghai Jiao Tong University</em></p>
-        <p><a href="https://yichao0319.github.io/"><i class="fas fa-user"></i> https://yichao0319.github.io/</a></p>
-    </div>
-</div>
-
-<p style="clear:both"></p>
--->
 ### Students
 
 ---
@@ -74,24 +56,7 @@ nav_order: 1
 </div>
 
 <p style="clear:both"></p>
-<!--
-### Interns
 
---
-
-<div class="members float-left">
-    {% include figure.html
-        path='assets/img/default_avatar.png'
-        class="img-fluid z-depth-1 rounded-circle"
-        alt='Ryan Niu' -%}
-    <div class="address">
-        <h5>Ryan Niu</h5>
-        <p><em>Master Student (University of Southern California)</em></p>
-    </div>
-</div>
-
-<p style="clear:both"></p>
--->
 ### Past people
 
 ---
