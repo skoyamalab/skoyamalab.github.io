@@ -77,7 +77,7 @@ nav_ja_order: 1
 
 ### インターン
 
---
+---
 
 <div class="members float-left">
     {% include figure.html

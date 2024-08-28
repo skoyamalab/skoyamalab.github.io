@@ -77,7 +77,7 @@ nav_order: 1
 
 ### Interns
 
---
+---
 
 <div class="members float-left">
     {% include figure.html
