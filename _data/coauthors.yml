@@ -14,6 +14,18 @@
   - firstname: ["夏樹"]
     url: https://natsuenono.github.io/
 
+"Nakamura":
+  - firstname: ["Tomohiko", "T."]
+    url:https://tomohikonakamura.github.io/Tomohiko-Nakamura/index.html
+
+"中村":
+  - firstname: ["友彦"]
+    url: https://tomohikonakamura.github.io/Tomohiko-Nakamura/index.html
+
+"Pezzoli":
+  - firstname: ["Mirco", "M."]
+    url: https://www.deib.polimi.it/eng/people/details/1156490
+
 "Saruwatari": 
   - firstname: ["Hiroshi", "H."]
     url: https://researchmap.jp/read0102891/
@@ -21,4 +33,5 @@
 "猿渡":
   - firstname: ["洋"]
     url: https://researchmap.jp/read0102891/?lang=ja
+
 
