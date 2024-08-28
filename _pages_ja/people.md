@@ -39,6 +39,24 @@ nav_ja_order: 1
 
 <p style="clear:both"></p>
 
+### 客員研究員
+
+---
+
+<div class="members float-left">
+    {% include figure.html
+        path='assets/img/ychen.jpg'
+        class="img-fluid z-depth-1 rounded-circle"
+        alt='Yi-Chao Chen' -%}
+    <div class="address">
+        <h5>Yi-Chao Chen</h5>
+        <p><em>Visiting researcher from Shanghai Jiao Tong University</em></p>
+        <p><a href="https://yichao0319.github.io/"><i class="fas fa-user"></i> https://yichao0319.github.io/</a></p>
+    </div>
+</div>
+
+<p style="clear:both"></p>
+
 ### 学生
 
 ---
@@ -52,6 +70,23 @@ nav_ja_order: 1
         <h5>山野 孝太</h5>
         <p>修士課程 (東京大学)</p>
         <p><a href="#"><i class="fas fa-envelope"></i> yamano-kota304<i class="fas fa-at"></i>g.ecc.u-tokyo.ac.jp</a></p>
+    </div>
+</div>
+
+<p style="clear:both"></p>
+
+### インターン
+
+--
+
+<div class="members float-left">
+    {% include figure.html
+        path='assets/img/default_avatar.png'
+        class="img-fluid z-depth-1 rounded-circle"
+        alt='Ryan Niu' -%}
+    <div class="address">
+        <h5>Ryan Niu</h5>
+        <p><em>Master Student (University of Southern California)</em></p>
     </div>
 </div>
 
