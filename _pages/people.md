@@ -38,7 +38,7 @@ nav_order: 1
 </div>
 
 <p style="clear:both"></p>
-
+<!--
 ### Visiting scholars
 
 ---
@@ -56,7 +56,7 @@ nav_order: 1
 </div>
 
 <p style="clear:both"></p>
-
+-->
 ### Students
 
 ---
@@ -74,7 +74,7 @@ nav_order: 1
 </div>
 
 <p style="clear:both"></p>
-
+<!--
 ### Interns
 
 --
@@ -91,7 +91,7 @@ nav_order: 1
 </div>
 
 <p style="clear:both"></p>
-
+-->
 ### Past people
 
 ---

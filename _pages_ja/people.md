@@ -38,7 +38,7 @@ nav_ja_order: 1
 </div>
 
 <p style="clear:both"></p>
-
+<!--
 ### 客員研究員
 
 ---
@@ -56,7 +56,7 @@ nav_ja_order: 1
 </div>
 
 <p style="clear:both"></p>
-
+-->
 ### 学生
 
 ---
@@ -74,7 +74,7 @@ nav_ja_order: 1
 </div>
 
 <p style="clear:both"></p>
-
+<!--
 ### インターン
 
 --
@@ -91,7 +91,7 @@ nav_ja_order: 1
 </div>
 
 <p style="clear:both"></p>
-
+-->
 ### 過去のメンバー
 
 ---
