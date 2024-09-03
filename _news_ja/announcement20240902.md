@@ -14,7 +14,7 @@ related_posts: false
 <div style="font-weight:bolder">Sound Field Estimation Using Deep Kernel Learning Regularized by the Wave Equation</div>
 D. Sundström, S. Koyama, and A. Jakobsson
 - Arxiv 📝: [https://arxiv.org/abs/2407.04417](https://arxiv.org/abs/2407.04417)
-- Code 🛠️: [https://github.com/davstrom99/dkpde][https://github.com/davstrom99/dkpde]
+- Code 🛠️: [https://github.com/davstrom99/dkpde](https://github.com/davstrom99/dkpde)
 - Poster Session V: Modeling, analysis, and synthesis of acoustic environments, Spatial audio recording and reproduction
 
 <div style="font-weight:bolder">Sound field estimation in region including scattering objects based on kernel interpolation: Evaluation for various scatterers</div>
