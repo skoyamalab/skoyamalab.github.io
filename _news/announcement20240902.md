@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Two papers from our team at IWAENC 2024 🇩🇰
-date: 2024-9-2 10:00:00+0900
+date: 2024-09-02 10:00:00+0900
 lang: en
 inline: false
 related_posts: false

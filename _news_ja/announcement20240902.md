@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IWAENC 2024で2件の発表があります 🇩🇰
-date: 2024-9-2 10:00:00+0900
+date: 2024-09-02 10:00:00+0900
 lang: ja
 inline: false
 related_posts: false
