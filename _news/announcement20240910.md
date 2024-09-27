@@ -7,7 +7,7 @@ inline: false
 related_posts: false
 ---
 
-"Physics-constrained adaptive kernel interpolation for region-to-region acoustic transfer function: a Bayesian approach" has been published at [EURAIP Journal on Audio, Speech, and Music Processing](https://asmp-eurasipjournals.springeropen.com/) (Open access) 🎉 
+A new paper entitled "Physics-constrained adaptive kernel interpolation for region-to-region acoustic transfer function: a Bayesian approach" has been published in [EURAIP Journal on Audio, Speech, and Music Processing](https://asmp-eurasipjournals.springeropen.com/) (Open access) 🎉 
 
 ***
 
