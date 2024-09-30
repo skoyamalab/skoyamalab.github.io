@@ -6,5 +6,5 @@ inline: true
 related_posts: false
 ---
 
-[小山准教授がUbiComp/ISWC 2024と併催されるワークショップMIMVAIで基調講演を行います 🇦🇺](https://mimsvai.github.io/#KEYNOTES)
+[小山准教授がUbiComp/ISWC 2024と併催されるワークショップMIMSVAIで基調講演を行います 🇦🇺](https://mimsvai.github.io/#KEYNOTES)
 
