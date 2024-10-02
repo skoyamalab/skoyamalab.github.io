@@ -50,7 +50,7 @@ nav_ja_order: 1
         alt='Yi-Chao Chen' -%}
     <div class="address">
         <h5>Yi-Chao Chen</h5>
-        <p><em>客員研究員, Shanghai Jiao Tong University</em></p>
+        <p>客員研究員, Shanghai Jiao Tong University</p>
         <p><a href="https://yichao0319.github.io/"><i class="fas fa-user"></i> https://yichao0319.github.io/</a></p>
     </div>
 </div>
@@ -80,7 +80,7 @@ nav_ja_order: 1
         alt='Manami Nishikata' -%}
     <div class="address">
         <h5>西潟 愛美</h5>
-        <p><em>博士課程 (総研大)</em></p>
+        <p>博士課程 (総研大)</p>
         <p><a href="#"><i class="fas fa-envelope"></i> m-nishikata<i class="fas fa-at"></i>nii.ac.jp</a></p>
     </div>
 </div>
