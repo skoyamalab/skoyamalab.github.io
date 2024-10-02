@@ -50,7 +50,7 @@ nav_ja_order: 1
         alt='Yi-Chao Chen' -%}
     <div class="address">
         <h5>Yi-Chao Chen</h5>
-        <p><em>Visiting researcher from Shanghai Jiao Tong University</em></p>
+        <p><em>客員研究員, Shanghai Jiao Tong University</em></p>
         <p><a href="https://yichao0319.github.io/"><i class="fas fa-user"></i> https://yichao0319.github.io/</a></p>
     </div>
 </div>
@@ -70,6 +70,17 @@ nav_ja_order: 1
         <h5>山野 孝太</h5>
         <p>修士課程 (東京大学)</p>
         <p><a href="#"><i class="fas fa-envelope"></i> yamano-kota304<i class="fas fa-at"></i>g.ecc.u-tokyo.ac.jp</a></p>
+    </div>
+</div>
+
+<div class="members float-left">
+    {% include figure.html
+        path='assets/img/mnishikata.jpg'
+        class="img-fluid z-depth-1 rounded-circle"
+        alt='Manami Nishikata' -%}
+    <div class="address">
+        <h5>西潟 愛美</h5>
+        <p><em>博士課程 (総研大)</em></p>
     </div>
 </div>
 

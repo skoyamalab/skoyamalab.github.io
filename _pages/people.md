@@ -73,6 +73,17 @@ nav_order: 1
     </div>
 </div>
 
+<div class="members float-left">
+    {% include figure.html
+        path='assets/img/mnishikata.jpg'
+        class="img-fluid z-depth-1 rounded-circle"
+        alt='Manami Nishikata' -%}
+    <div class="address">
+        <h5>Manami Nishikata</h5>
+        <p><em>Ph.D. Student (SOKENDAI)</em></p>
+    </div>
+</div>
+
 <p style="clear:both"></p>
 
 ### Interns
