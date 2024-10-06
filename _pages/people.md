@@ -104,7 +104,7 @@ nav_order: 1
 
 <div class="members float-left">
     {% include figure.html
-        path='assets/img/kschrader.png'
+        path='assets/img/kschrader.jpg'
         class="img-fluid z-depth-1 rounded-circle"
         alt='Karl Schrader' -%}
     <div class="address">
