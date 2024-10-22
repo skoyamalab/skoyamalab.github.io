@@ -39,23 +39,11 @@ nav_order: 1
 
 <p style="clear:both"></p>
 
-### Visiting scholars
+<!-- ### Visiting scholars
 
 ---
 
-<div class="members float-left">
-    {% include figure.html
-        path='assets/img/ychen.jpg'
-        class="img-fluid z-depth-1 rounded-circle"
-        alt='Yi-Chao Chen' -%}
-    <div class="address">
-        <h5>Yi-Chao Chen</h5>
-        <p><em>Visiting researcher from Shanghai Jiao Tong University</em></p>
-        <p><a href="https://yichao0319.github.io/"><i class="fas fa-user"></i> https://yichao0319.github.io/</a></p>
-    </div>
-</div>
-
-<p style="clear:both"></p>
+<p style="clear:both"></p> -->
 
 ### Students
 
@@ -119,6 +107,7 @@ nav_order: 1
 
 ---
 
+- [Yi-Chao Chen](https://yichao0319.github.io/) (Visiting researcher from Shanghai Jiao Tong University, China, 2024)
 - [David Sundström](https://portal.research.lu.se/en/persons/david-sundstr%C3%B6m) (Intern, Lund University, Sweden, 2024)
 - Juliano G. C. Ribeiro (Master/Ph.D., The University of Tokyo, 2019-2024)
 - [Mirco Pezzoli](https://www.deib.polimi.it/eng/people/details/1156490) (Visiting researcher from Polytechnic University of Milan, Italy, 2023-2024)
