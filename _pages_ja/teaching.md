@@ -17,6 +17,12 @@ nav_ja_order: 4
 
 <br />
 
+##### メディア処理基礎
+- 11/19(火): Fumdamentals of Signal Processing (Part 1) [<i class="fas fa-file-powerpoint"></i>]()
+- 11/26(火): Fumdamentals of Signal Processing (Part 2)
+
+<br />
+
 ### 2023年度
 
 ---
@@ -31,7 +37,7 @@ nav_ja_order: 4
 <br />
 
 ##### メディア処理基礎
-- 10/31(火): Fumdamentals of Signal Processing (Part 1) [<i class="fas fa-file-powerpoint"></i>](/assets/pdf/teaching/fund-media-proc2023-1.pdf)
-- 11/7(火): Fumdamentals of Signal Processing (Part 2) [<i class="fas fa-file-powerpoint"></i>](/assets/pdf/teaching/fund-media-proc2023-2.pdf)
+- 10/31(火): Fumdamentals of Signal Processing (Part 1)
+- 11/7(火): Fumdamentals of Signal Processing (Part 2)
 
 <br />

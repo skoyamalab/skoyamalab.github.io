@@ -17,6 +17,12 @@ nav_order: 4
 
 <br />
 
+##### Fundamentals of Media Processing
+- 19 Nov. (Tue): Fumdamentals of Signal Processing (Part 1) [<i class="fas fa-file-powerpoint"></i>]()
+- 26 Nov. (Tue): Fumdamentals of Signal Processing (Part 2) 
+
+<br />
+
 ### AY2023
 
 ---
@@ -31,7 +37,7 @@ nav_order: 4
 <br />
 
 ##### Fundamentals of Media Processing
-- 31 Oct. (Tue): Fumdamentals of Signal Processing (Part 1) [<i class="fas fa-file-powerpoint"></i>](/assets/pdf/teaching/fund-media-proc2023-1.pdf)
-- 7 Nov. (Tue): Fumdamentals of Signal Processing (Part 2) [<i class="fas fa-file-powerpoint"></i>](/assets/pdf/teaching/fund-media-proc2023-2.pdf)
+- 31 Oct. (Tue): Fumdamentals of Signal Processing (Part 1) 
+- 7 Nov. (Tue): Fumdamentals of Signal Processing (Part 2)
 
 <br />
