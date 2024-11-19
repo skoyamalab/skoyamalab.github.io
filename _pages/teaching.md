@@ -18,7 +18,7 @@ nav_order: 4
 <br />
 
 ##### Fundamentals of Media Processing
-- 19 Nov. (Tue): Fumdamentals of Signal Processing (Part 1) [<i class="fas fa-file-powerpoint"></i>]()
+- 19 Nov. (Tue): Fumdamentals of Signal Processing (Part 1) [<i class="fas fa-file-powerpoint"></i>](/assets/pdf/teaching/fund-media-proc2024-1.pdf)
 - 26 Nov. (Tue): Fumdamentals of Signal Processing (Part 2) 
 
 <br />

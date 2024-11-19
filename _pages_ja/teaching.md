@@ -18,7 +18,7 @@ nav_ja_order: 4
 <br />
 
 ##### メディア処理基礎
-- 11/19(火): Fumdamentals of Signal Processing (Part 1) [<i class="fas fa-file-powerpoint"></i>]()
+- 11/19(火): Fumdamentals of Signal Processing (Part 1) [<i class="fas fa-file-powerpoint"></i>](/assets/pdf/teaching/fund-media-proc2024-1.pdf)
 - 11/26(火): Fumdamentals of Signal Processing (Part 2)
 
 <br />
