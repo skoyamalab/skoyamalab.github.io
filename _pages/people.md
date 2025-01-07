@@ -81,17 +81,6 @@ nav_order: 1
 
 <div class="members float-left">
     {% include figure.html
-        path='assets/img/default_avatar.png'
-        class="img-fluid z-depth-1 rounded-circle"
-        alt='Ryan Niu' -%}
-    <div class="address">
-        <h5>Ryan Niu</h5>
-        <p><em>Master Student (University of Southern California)</em></p>
-    </div>
-</div>
-
-<div class="members float-left">
-    {% include figure.html
         path='assets/img/kschrader.jpg'
         class="img-fluid z-depth-1 rounded-circle"
         alt='Karl Schrader' -%}
@@ -107,6 +96,7 @@ nav_order: 1
 
 ---
 
+- Ryan Niu (Intern, University of Southern California, USA, 2024)
 - [Yi-Chao Chen](https://yichao0319.github.io/) (Visiting researcher from Shanghai Jiao Tong University, China, 2024)
 - [David Sundström](https://portal.research.lu.se/en/persons/david-sundstr%C3%B6m) (Intern, Lund University, Sweden, 2024)
 - Juliano G. C. Ribeiro (Master/Ph.D., The University of Tokyo, 2019-2024)
