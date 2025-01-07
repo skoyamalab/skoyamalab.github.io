@@ -7,7 +7,7 @@ lang: ja
 importance: 2
 ---
 
-### Physics-informed machine learning for audio processing
+### 物理的性質に基づく機械学習による音響処理
 
 <div style="margin: 1rem;">
 <div class="row">
