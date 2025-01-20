@@ -32,7 +32,7 @@ nav_ja_order: 1
         alt='Denny Hermawanto' -%}
     <div class="address">
         <h5>Denny Hermawanto, Ph.D.</h5>
-        <p><em>特任研究員</em></p>
+        <p>特任研究員</p>
         <p><a href="#"><i class="fas fa-envelope"></i> dhermawanto<i class="fas fa-at"></i>nii.ac.jp</a></p>
     </div>
 </div>
