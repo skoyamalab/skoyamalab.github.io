@@ -102,6 +102,17 @@ nav_ja_order: 1
     </div>
 </div>
 
+<div class="members float-left">
+    {% include figure.html
+        path='assets/img/fgrimau.jpg'
+        class="img-fluid z-depth-1 rounded-circle"
+        alt='Florent Grimau' -%}
+    <div class="address">
+        <h5>Florent Grimau</h5>
+        <p><em>Master Student (KTH Royal Institute of Technology)</em></p>
+    </div>
+</div>
+
 <p style="clear:both"></p>
 
 ### 過去のメンバー
