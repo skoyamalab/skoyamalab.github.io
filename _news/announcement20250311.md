@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-[Prof. Koyama's interview was published in the magazine “教育応援”, vol. 65 (Leave a Nest Co., Ltd.) 📰] (https://lne.st/business/publishing/kyouiku/)
+[Prof. Koyama's interview was published in the magazine “教育応援”, vol. 65 (Leave a Nest Co., Ltd.) 📰](https://lne.st/business/publishing/kyouiku/)
