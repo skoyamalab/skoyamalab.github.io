@@ -13,7 +13,7 @@ nav_ja_order: 5
 ---
 
 - ~~特任研究員（特定有期雇用職員・ポスドク相当）募集: [https://www.nii.ac.jp/about/recruit/2024/0315.html](https://www.nii.ac.jp/about/recruit/2024/0315.html)~~
-
+- DAAD-NII Post-Doctral Programに基づくポスドク研究員: [https://www.nii.ac.jp/en/glo-daad/](https://www.nii.ac.jp/en/glo-daad/)
 
 <br />
 

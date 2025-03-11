@@ -13,6 +13,7 @@ nav_order: 5
 ---
 
 - ~~Project Researcher (Postdoctoral Fellow): [https://www.nii.ac.jp/en/about/recruit/2024/0315.html](https://www.nii.ac.jp/en/about/recruit/2024/0315.html)~~
+- Prostdoctoral researcher based on DAAD-NII Post-Doctral Program: [https://www.nii.ac.jp/en/glo-daad/](https://www.nii.ac.jp/en/glo-daad/)
 
 <br />
 
