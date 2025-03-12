@@ -8,12 +8,28 @@ nav: true
 nav_order: 4
 ---
 
+### AY 2025
+
+---
+
+##### Introduction to Multimedia Information Science
+
+<br />
+
+##### Interactive Media
+
+<br />
+
+##### Fundamentals of Media Processing
+
+<br />
+
 ### AY2024
 
 ---
 
 ##### Introduction to Multimedia Information Science
-- 15 May (Wed): Introduction to Signal Processing and Machiene Learning for Audio and Acoustics
+- 15 May (Wed): Introduction to Signal Processing and Machine Learning for Audio and Acoustics
 
 <br />
 
@@ -28,7 +44,7 @@ nav_order: 4
 ---
 
 ##### Introduction to Multimedia Information Science
-- 17 May (Wed): Introduction to Signal Processing and Machiene Learning for Audio and Acoustics
+- 17 May (Wed): Introduction to Signal Processing and Machine Learning for Audio and Acoustics
 
 <br />
 
