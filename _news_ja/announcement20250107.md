@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 総説論文がIEEE Signal Processing Magazine誌に新たに掲載されました 🎉 
-date: 2025-01-07 10:00:00+0900
+date: 2025-1-7 10:00:00+0900
 lang: ja
 inline: false
 related_posts: false

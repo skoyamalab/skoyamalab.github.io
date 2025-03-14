@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A new article has been published in IEEE Signal Processing Magazine 🎉 
-date: 2025-01-07 10:00:00+0900
+date: 2025-1-7 10:00:00+0900
 lang: en
 inline: false
 related_posts: false
