@@ -40,6 +40,8 @@ NIIでは，[NIIとMOUを締結している機関](https://www.nii.ac.jp/about/i
 
 - [https://www.soken.ac.jp/admission/application_info/informatics/index.html](https://www.soken.ac.jp/admission/application_info/informatics/index.html)
 
+要件を満たす学生の方は基本的にリサーチアシスタント（RA）として雇用します。
+
 <br />
 
 ---

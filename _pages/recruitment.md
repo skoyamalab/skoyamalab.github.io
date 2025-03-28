@@ -45,6 +45,8 @@ There are several enrollment options for international students.
 
 - [https://www.nii.ac.jp/graduate/en/entrance/](https://www.nii.ac.jp/graduate/en/entrance/)
 
+Students who meet the requirements are basically hired as research assistants (RAs).
+
 <br />
 
 ---
