@@ -45,4 +45,13 @@ Our main research topic is the analysis and control of acoustic fields and their
 {%- endif -%}
 </div>
 
-<!-- ### Videos introducing our resarch -->
+<br />
+
+### Videos introducing our resarch
+
+---
+
+<div class="video-container" style="display: flex; flex-wrap: wrap; justify-content: left; gap: 20px;">
+<iframe style="width: 100%; max-width: 400px; aspect-ratio: 16/ 9;" src="https://www.youtube.com/embed/RlbMzSLcLOQ?si=fjWvLIlRxLwrJ3ZZ" allowfullscreen></iframe>
+<iframe style="width: 100%; max-width: 400px; aspect-ratio: 16/ 9;" src="https://www.youtube.com/embed/C5mmF5BE2iU?si=hSCdtVj-Tia5O9Yx" allowfullscreen></iframe>
+</div>

@@ -45,4 +45,13 @@ nav_ja_order: 3
 {%- endif -%}
 </div>
 
-<!-- ### 研究紹介動画 -->
+<br />
+
+### 研究紹介動画
+
+---
+
+<div class="video-container" style="display: flex; flex-wrap: wrap; justify-content: left; gap: 20px;">
+<iframe style="width: 100%; max-width: 400px; aspect-ratio: 16/ 9;" src="https://www.youtube.com/embed/RlbMzSLcLOQ?si=fjWvLIlRxLwrJ3ZZ" allowfullscreen></iframe>
+<iframe style="width: 100%; max-width: 400px; aspect-ratio: 16/ 9;" src="https://www.youtube.com/embed/C5mmF5BE2iU?si=hSCdtVj-Tia5O9Yx" allowfullscreen></iframe>
+</div>

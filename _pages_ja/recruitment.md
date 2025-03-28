@@ -21,7 +21,7 @@ nav_ja_order: 5
 
 ---
 
-NIIでは，NIIとMOUを締結している機関に所属する博士/修士課程の学生向けに，国際インターンシッププログラムを提供しています。詳細は以下のウェブサイトをご参照ください。
+NIIでは，[NIIとMOUを締結している機関](https://www.nii.ac.jp/about/international/mou/)に所属する博士/修士課程の学生向けに，国際インターンシッププログラムを提供しています。詳細は以下のウェブサイトをご参照ください。
 
 - ~~2nd Call of 2024  "NII International Internship Program" (Deadline: Oct. 16, 2024):~~
     - ~~[https://www.nii.ac.jp/en/about/international/mouresearch/internship2024-2/](https://www.nii.ac.jp/en/about/international/mouresearch/internship2024-2/)~~
