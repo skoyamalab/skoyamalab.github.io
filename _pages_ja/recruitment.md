@@ -30,6 +30,8 @@ NIIでは，[NIIとMOUを締結している機関](https://www.nii.ac.jp/about/i
 
 興味のある方で，NIIとMOUを締結している機関以外に所属する方は，メールにてご相談ください。
 
+上記のインターンシッププログラム以外の受入制度については[こちら](https://www.nii.ac.jp/research/kenkyou/)をご参照ください。
+
 <br />
 
 #### 大学院入学案内
