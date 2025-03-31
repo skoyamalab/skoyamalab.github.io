@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IEEE ICASSP 2024で発表があります 🇰🇷
-date: 2024-03-14 10:00:00+0900
+date: 2024-3-14 10:00:00+0900
 lang: ja
 inline: false
 related_posts: false

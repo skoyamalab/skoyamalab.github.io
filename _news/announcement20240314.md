@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Presentation from our team at IEEE ICASSP 2024 🇰🇷
-date: 2024-03-14 10:00:00+0900
+date: 2024-3-14 10:00:00+0900
 lang: en
 inline: false
 related_posts: false
