@@ -63,18 +63,6 @@ nav_order: 1
 
 <div class="members float-left">
     {% include figure.html
-        path='assets/img/default_avatar.png'
-        class="img-fluid z-depth-1 rounded-circle"
-        alt='Kota Yamano' -%}
-    <div class="address">
-        <h5>Kota Yamano</h5>
-        <p><em>Master Student (UTokyo)</em></p>
-        <p><a href="#"><i class="fas fa-envelope"></i> yamano-kota304<i class="fas fa-at"></i>g.ecc.u-tokyo.ac.jp</a></p>
-    </div>
-</div>
-
-<div class="members float-left">
-    {% include figure.html
         path='assets/img/mnishikata.jpg'
         class="img-fluid z-depth-1 rounded-circle"
         alt='Manami Nishikata' -%}
@@ -93,17 +81,6 @@ nav_order: 1
 
 <div class="members float-left">
     {% include figure.html
-        path='assets/img/kschrader.jpg'
-        class="img-fluid z-depth-1 rounded-circle"
-        alt='Karl Schrader' -%}
-    <div class="address">
-        <h5>Karl Schrader</h5>
-        <p><em>Doctoral Student (Saarland University)</em></p>
-    </div>
-</div>
-
-<div class="members float-left">
-    {% include figure.html
         path='assets/img/fgrimau.jpg'
         class="img-fluid z-depth-1 rounded-circle"
         alt='Florent Grimau' -%}
@@ -119,6 +96,8 @@ nav_order: 1
 
 ---
 
+- Karl Schrader (Intern, Saarland University, Germany, 2024-2025)
+- Kota Yamano (Master, The University of Tokyo, 2022-2025)
 - Ryan Niu (Intern, University of Southern California, USA, 2024)
 - [Yi-Chao Chen](https://yichao0319.github.io/) (Visiting researcher from Shanghai Jiao Tong University, China, 2024)
 - [David Sundström](https://portal.research.lu.se/en/persons/david-sundstr%C3%B6m) (Intern, Lund University, Sweden, 2024)
