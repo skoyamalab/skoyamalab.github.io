@@ -13,6 +13,7 @@ nav_order: 4
 ---
 
 ##### Introduction to Multimedia Information Science
+- 14 May (Wed): Introduction to Signal Processing and Machine Learning for Audio and Acoustics
 
 <br />
 

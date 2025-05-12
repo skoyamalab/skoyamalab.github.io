@@ -13,6 +13,7 @@ nav_ja_order: 4
 ---
 
 ##### 情報メディア概論
+- 5/14(水): Introduction to Signal Processing and Machiene Learning for Audio and Acoustics
 
 <br />
 
