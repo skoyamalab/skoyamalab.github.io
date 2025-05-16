@@ -6,5 +6,5 @@ inline: true
 related_posts: false
 ---
 
-Prof. Mirco Pezzoli（ミラノ工科大学）が客員研究員として約２ヶ月間の滞在を開始しました。
+Prof. Mirco Pezzoli（ミラノ工科大学）が訪問研究員としての滞在を開始しました。
 

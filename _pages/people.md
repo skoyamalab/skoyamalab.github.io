@@ -51,11 +51,22 @@ nav_order: 1
 
 <p style="clear:both"></p>
 
-<!-- ### Visiting scholars
+### Visiting scholars
 
 ---
 
-<p style="clear:both"></p> -->
+<div class="members float-left">
+    {% include figure.html
+        path='assets/img/rgiampiccolo.jpg'
+        class="img-fluid z-depth-1 rounded-circle"
+        alt='Riccardo Giampiccolo' -%}
+    <div class="address">
+        <h5>Riccardo Giampiccolo</h5>
+        <p><em>Visiting researcher from Polytechnic University of Milan</em></p>
+    </div>
+</div>
+
+<p style="clear:both"></p>
 
 ### Students
 

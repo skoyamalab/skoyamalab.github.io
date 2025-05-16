@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Prof. Mirco Pezzoli from Polimi started his two-months stay at our lab as a visiting researcher.
+Prof. Mirco Pezzoli from Polimi started his stay in our lab as a visiting researcher.

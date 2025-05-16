@@ -51,11 +51,22 @@ nav_ja_order: 1
 
 <p style="clear:both"></p>
 
-<!-- ### 客員研究員
+### 客員研究員
 
 ---
 
-<p style="clear:both"></p> -->
+<div class="members float-left">
+    {% include figure.html
+        path='assets/img/rgiampiccolo.jpg'
+        class="img-fluid z-depth-1 rounded-circle"
+        alt='Riccardo Giampiccolo' -%}
+    <div class="address">
+        <h5>Riccardo Giampiccolo</h5>
+        <p><em>訪問研究員, Polytechnic University of Milan</em></p>
+    </div>
+</div>
+
+<p style="clear:both"></p>
 
 ### 学生
 
@@ -99,10 +110,10 @@ nav_ja_order: 1
 - Karl Schrader (インターン, Saarland University, Germany, 2024-2025)
 - 山野 孝太 (修士, 東京大学, 2022-2025)
 - Ryan Niu (インターン, University of Southern California, USA, 2024)
-- [Yi-Chao Chen](https://yichao0319.github.io/) (客員研究員, Shanghai Jiao Tong University, China, 2024)
+- [Yi-Chao Chen](https://yichao0319.github.io/) (訪問研究員, Shanghai Jiao Tong University, China, 2024)
 - [David Sundström](https://portal.research.lu.se/en/persons/david-sundstr%C3%B6m) (インターン, Lund Uniersity, Sweden, 2024)
 - Juliano G. C. Ribeiro (修士/博士, 東京大学, 2019-2024)
-- [Mirco Pezzoli](https://www.deib.polimi.it/eng/people/details/1156490) (客員研究員, Polytechnic University of Milan, Italy, 2023-2024)
+- [Mirco Pezzoli](https://www.deib.polimi.it/eng/people/details/1156490) (訪問研究員, Polytechnic University of Milan, Italy, 2023-2024)
 - 重見 和秀 (修士, 東京大学, 2021-2023)
 - 有川 和志 (修士, 東京大学, 2021-2023)
 - 伊藤 悠貴 (修士, 東京大学, 2021-2023)
