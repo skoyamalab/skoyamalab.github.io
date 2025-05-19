@@ -12,5 +12,5 @@ related_posts: false
 ***
 
 <div style="font-weight:bolder">Active noise cancellation in space containing scattering objects based on kernel interpolation</div>
-K. Yamano, S. Koyama, H. Saruwatari1
+K. Yamano, S. Koyama, H. Saruwatari
 - Session 🧑‍💻: 15:40-16:00, 19 May 
