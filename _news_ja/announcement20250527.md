@@ -7,7 +7,7 @@ inline: false
 related_posts: false
 ---
 
-小山准教授が6/6(金)に開催される[IEEE SPS Webinar](https://signalprocessingsociety.org/blog/sps-sltcaasp-tc-webinar-physics-informed-machine-learning-sound-field-estimation-fundamentals)において，[我々の総説論文](https://doi.org/10.1109/MSP.2024.3465896)に基づく講演を行います。 
+小山准教授が6/6(金)に開催される[IEEE SPS SLTC/AASP TC Webinar](https://signalprocessingsociety.org/blog/sps-sltcaasp-tc-webinar-physics-informed-machine-learning-sound-field-estimation-fundamentals)において，[我々の総説論文](https://doi.org/10.1109/MSP.2024.3465896)に基づく講演を行います。 
 
 ***
 

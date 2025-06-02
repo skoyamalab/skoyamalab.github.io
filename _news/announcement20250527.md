@@ -7,7 +7,7 @@ inline: false
 related_posts: false
 ---
 
-Prof. Koyama will present a talk based on [our overview paper](https://doi.org/10.1109/MSP.2024.3465896) at the [IEEE SPS Webinar](https://signalprocessingsociety.org/blog/sps-sltcaasp-tc-webinar-physics-informed-machine-learning-sound-field-estimation-fundamentals) on 6th June. 
+Prof. Koyama will present a talk based on [our overview paper](https://doi.org/10.1109/MSP.2024.3465896) at the [IEEE SPS SLTC/AASP TC Webinar](https://signalprocessingsociety.org/blog/sps-sltcaasp-tc-webinar-physics-informed-machine-learning-sound-field-estimation-fundamentals) on 6th June. 
 
 ***
 
