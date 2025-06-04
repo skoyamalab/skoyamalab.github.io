@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prof. Koyama will present at IEEE SPS Webinar 👨‍💻
+title: Prof. Koyama will present at IEEE SPS SLTC/AASP TC Webinar 👨‍💻
 date: 2025-5-27 10:00:00+0900
 lang: en
 inline: false

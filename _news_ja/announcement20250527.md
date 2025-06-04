@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 小山准教授がIEEE SPS Webinarにおいて講演を行います 👨‍💻
+title: 小山准教授がIEEE SPS SLTC/AASP TC Webinarにおいて講演を行います 👨‍💻
 date: 2025-5-27 10:00:00+0900
 lang: ja
 inline: false
