@@ -13,4 +13,5 @@ related_posts: false
 
 <div style="font-weight:bolder">Learning Magnitude Distribution of Sound Fields via Conditioned Autoencoder</div>
 S. Koyama and K. Ishizuka
+- Preprint 📝: [https://arxiv.org/abs/2506.16729](https://arxiv.org/abs/2506.16729)
 - Session 🧑‍💻:  A16.03/A09.06-T1 16:00-16:20, 25 June 
