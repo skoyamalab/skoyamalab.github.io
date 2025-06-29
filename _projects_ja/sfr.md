@@ -4,7 +4,7 @@ title: スピーカアレイによる音場再現
 description: 
 img: assets/img/sfr_circ.gif
 lang: ja
-importance: 2
+importance: 3
 ---
 
 ### スピーカアレイによる音場再現

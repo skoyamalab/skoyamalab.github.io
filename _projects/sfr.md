@@ -3,7 +3,7 @@ layout: page
 title: Sound field reproduction using loudspeaker array
 description: 
 img: assets/img/sfr_circ.gif
-importance: 2
+importance: 3
 ---
 
 ### Sound field reproduction using loudspeaker array

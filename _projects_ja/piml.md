@@ -4,7 +4,7 @@ title: 物理的性質に基づく機械学習による音響処理
 description: 
 img: assets/img/piml_sfest.png
 lang: ja
-importance: 2
+importance: 1
 ---
 
 ### 物理的性質に基づく機械学習による音響処理
