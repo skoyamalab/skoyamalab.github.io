@@ -17,7 +17,7 @@ nav_order: 4
 
 <br />
 
-##### Interactive Media
+##### ~~Interactive Media~~ (Canceled)
 
 <br />
 
