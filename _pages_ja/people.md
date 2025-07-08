@@ -92,12 +92,12 @@ nav_ja_order: 1
 
 <div class="members float-left">
     {% include figure.html
-        path='assets/img/fgrimau.jpg'
+        path='assets/img/eerdem.png'
         class="img-fluid z-depth-1 rounded-circle"
-        alt='Florent Grimau' -%}
+        alt='Ege Erdem' -%}
     <div class="address">
-        <h5>Florent Grimau</h5>
-        <p><em>Master Student (KTH Royal Institute of Technology)</em></p>
+        <h5>Ege Erdem</h5>
+        <p><em>Ph.D. Student (King's College London)</em></p>
     </div>
 </div>
 
@@ -107,6 +107,7 @@ nav_ja_order: 1
 
 ---
 
+- Florent Grimau (インターン, KTH Royal Institute of Technology, Sweden, 2025)
 - Karl Schrader (インターン, Saarland University, Germany, 2024-2025)
 - 山野 孝太 (修士, 東京大学, 2022-2025)
 - Ryan Niu (インターン, University of Southern California, USA, 2024)
