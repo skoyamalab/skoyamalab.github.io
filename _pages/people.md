@@ -51,22 +51,9 @@ nav_order: 1
 
 <p style="clear:both"></p>
 
-### Visiting scholars
+<!-- ### Visiting scholars
 
----
-
-<div class="members float-left">
-    {% include figure.html
-        path='assets/img/rgiampiccolo.jpg'
-        class="img-fluid z-depth-1 rounded-circle"
-        alt='Riccardo Giampiccolo' -%}
-    <div class="address">
-        <h5>Riccardo Giampiccolo</h5>
-        <p><em>Visiting researcher from Polytechnic University of Milan</em></p>
-    </div>
-</div>
-
-<p style="clear:both"></p>
+--- -->
 
 ### Students
 
@@ -107,6 +94,7 @@ nav_order: 1
 
 ---
 
+- [Riccardo Giampiccolo](https://www.deib.polimi.it/eng/people/details/967806) (Visiting researcher from Polytechnic University of Milan, Italy, 2025)
 - Florent Grimau (Intern, KTH Royal Institute of Technology, 2025)
 - Karl Schrader (Intern, Saarland University, Germany, 2024-2025)
 - Kota Yamano (Master, The University of Tokyo, 2022-2025)

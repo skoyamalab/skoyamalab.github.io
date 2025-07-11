@@ -51,22 +51,9 @@ nav_ja_order: 1
 
 <p style="clear:both"></p>
 
-### 客員研究員
+<!-- ### 客員研究員
 
----
-
-<div class="members float-left">
-    {% include figure.html
-        path='assets/img/rgiampiccolo.jpg'
-        class="img-fluid z-depth-1 rounded-circle"
-        alt='Riccardo Giampiccolo' -%}
-    <div class="address">
-        <h5>Riccardo Giampiccolo</h5>
-        <p><em>訪問研究員, Polytechnic University of Milan</em></p>
-    </div>
-</div>
-
-<p style="clear:both"></p>
+--- -->
 
 ### 学生
 
@@ -107,6 +94,7 @@ nav_ja_order: 1
 
 ---
 
+- [Riccardo Giampiccolo](https://www.deib.polimi.it/eng/people/details/967806) (訪問研究員, Polytechnic University of Milan, Italy, 2025)
 - Florent Grimau (インターン, KTH Royal Institute of Technology, Sweden, 2025)
 - Karl Schrader (インターン, Saarland University, Germany, 2024-2025)
 - 山野 孝太 (修士, 東京大学, 2022-2025)
