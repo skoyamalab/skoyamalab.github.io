@@ -15,15 +15,15 @@ nav_order: 4
 ##### Introduction to Multimedia Information Science
 - 14 May (Wed): Introduction to Signal Processing and Machine Learning for Audio and Acoustics
 
-  
+\
 
 ##### ~~Interactive Media~~ (Canceled)
 
-  
+\ 
 
 ##### Fundamentals of Media Processing
 
-  
+\
 
 <details>
 
@@ -36,13 +36,13 @@ nav_order: 4
 ##### Introduction to Multimedia Information Science
 - 15 May (Wed): Introduction to Signal Processing and Machine Learning for Audio and Acoustics  
 
-  
+\
 
 ##### Fundamentals of Media Processing
 - 19 Nov. (Tue): Fumdamentals of Signal Processing (Part 1) [<i class="fas fa-file-powerpoint"></i>](/assets/pdf/teaching/fund-media-proc2024-1.pdf)
 - 26 Nov. (Tue): Fumdamentals of Signal Processing (Part 2) [<i class="fas fa-file-powerpoint"></i>](/assets/pdf/teaching/fund-media-proc2024-2.pdf)
 
-  
+\  
 
 ### AY2023
 
@@ -51,16 +51,16 @@ nav_order: 4
 ##### Introduction to Multimedia Information Science
 - 17 May (Wed): Introduction to Signal Processing and Machine Learning for Audio and Acoustics
 
-  
+\ 
 
 ##### ~~Interactive Media~~ (Canceled)
 
-  
+\
 
 ##### Fundamentals of Media Processing
 - 31 Oct. (Tue): Fumdamentals of Signal Processing (Part 1) 
 - 7 Nov. (Tue): Fumdamentals of Signal Processing (Part 2)
 
-  
+\ 
 
 </details>
