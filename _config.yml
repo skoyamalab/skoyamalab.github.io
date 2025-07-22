@@ -198,7 +198,7 @@ latest_posts:
 # -----------------------------------------------------------------------------
 
 # Markdown and syntax highlight
-markdown: CommonMarkGhPages #kramdown
+markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM
@@ -209,6 +209,7 @@ kramdown:
     block:
       line_numbers: false
       start_line: 1
+  parse_block_html: true # allows to use HTML in markdown files
 
 # Includes & excludes
 #include: ['_pages']
