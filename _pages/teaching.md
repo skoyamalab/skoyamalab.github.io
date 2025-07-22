@@ -26,8 +26,8 @@ nav_order: 4
 <br />
 
 <details>
-    <summary>Past teaching</summary>
 
+<summary>Past teaching</summary>
 
 ### AY2024
 
