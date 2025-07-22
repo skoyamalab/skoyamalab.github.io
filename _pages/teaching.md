@@ -25,7 +25,9 @@ nav_order: 4
 
 <br />
 
-<details><summary>Past teaching</summary>
+<details>
+    <summary>Past teaching</summary>
+
 
 ### AY2024
 
@@ -60,5 +62,6 @@ nav_order: 4
 - 7 Nov. (Tue): Fumdamentals of Signal Processing (Part 2)
 
 <br />
+
 
 </details>
