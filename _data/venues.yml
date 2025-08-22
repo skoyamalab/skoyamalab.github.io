@@ -18,6 +18,10 @@
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97
   color: "#f92080"
 
+"IEEE SPM":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=79
+  color: "#f92080"
+
 "EURASIP JASM":
   url: https://asmp-eurasipjournals.springeropen.com/
   color: "#f92080"
@@ -26,8 +30,25 @@
   url: https://www.nowpublishers.com/SIP
   color: "#f92080"
 
+"JAES":
+  url: https://aes2.org/publications/elibrary/
+  color: "#f92080"
+
+"JASJ":
+  url: https://www.jstage.jst.go.jp/browse/jasj/-char/ja
+  color: "#f92080"
+
 "ICASSP":
-  url: https://ieeexplore.ieee.org/servlet/opac?punumber=10094559
+  url: https://ieeexplore.ieee.org/xpl/conhome/1000002/all-proceedings
 
 "WASPAA":
-  url: https://ieeexplore.ieee.org/servlet/opac?punumber=10248019
+  url: https://ieeexplore.ieee.org/xpl/conhome/1000042/all-proceedings
+
+"IWAENC":
+  url: https://ieeexplore.ieee.org/xpl/conhome/1804204/all-proceedings
+
+"EUSIPCO": 
+  url: https://ieeexplore.ieee.org/xpl/conhome/1801907/all-proceedings
+
+"DAFx":
+  url: https://www.dafx.de/
