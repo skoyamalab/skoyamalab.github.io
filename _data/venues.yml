@@ -6,12 +6,24 @@
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655
   color: "#f92080"
 
+"IEEE OJSP":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782710
+  color: "#f92080"
+
 "IEEE JSTSP":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690
   color: "#f92080"
 
 "IEEE SPL":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97
+  color: "#f92080"
+
+"EURASIP JASM":
+  url: https://asmp-eurasipjournals.springeropen.com/
+  color: "#f92080"
+
+"APSIPA TSIP":
+  url: https://www.nowpublishers.com/SIP
   color: "#f92080"
 
 "ICASSP":

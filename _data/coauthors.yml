@@ -34,6 +34,15 @@
   - firstname: ["Fabio", "F."]
     url: https://www.deib.polimi.it/eng/people/details/573870
 
+"Sakamoto": 
+  - firstname: ["Shuichi", "S."]
+    url: https://researchmap.jp/sakashu
+
+"坂本":
+  - firstname: ["修一"]
+    url: https://researchmap.jp/sakashu/?lang=ja
+
+
 "Saruwatari": 
   - firstname: ["Hiroshi", "H."]
     url: https://researchmap.jp/read0102891/
