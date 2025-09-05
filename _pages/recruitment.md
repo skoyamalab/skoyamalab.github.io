@@ -23,10 +23,10 @@ nav_order: 5
 
 NII offers International Internship Program for Ph.D./Master students from [institutions having an MOU agreement with NII](https://www.nii.ac.jp/en/about/international/mou/). Find out the details here. 
 
-- ~~2nd Call of 2024  "NII International Internship Program" (Deadline: Oct. 16, 2024):~~
-    - ~~[https://www.nii.ac.jp/en/about/international/mouresearch/internship2024-2/](https://www.nii.ac.jp/en/about/international/mouresearch/internship2024-2/)~~
-- 1st Call of 2025  "NII International Internship Program" (Deadline: Apr. 15, 2025):
-    - [https://www.nii.ac.jp/en/about/international/mouresearch/internship2025-1/](https://www.nii.ac.jp/en/about/international/mouresearch/internship2025-1/)
+- ~~1st Call of 2025  "NII International Internship Program" (Deadline: Apr. 15, 2025):~~
+    - ~~[https://www.nii.ac.jp/en/about/international/mouresearch/internship2025-1/](https://www.nii.ac.jp/en/about/international/mouresearch/internship2025-1/)~~
+- 2nd Call of 2025  "NII International Internship Program" (Deadline: Oct. 22, 2025):
+    - [https://www.nii.ac.jp/en/about/international/mouresearch/internship2025-2/](https://www.nii.ac.jp/en/about/international/mouresearch/internship2025-2/)
 
 If you are interested but not a student from institutions having an MOU agreement with NII, please contact us. 
 
@@ -45,7 +45,7 @@ There are several enrollment options for international students.
 
 - [https://www.nii.ac.jp/graduate/en/entrance/](https://www.nii.ac.jp/graduate/en/entrance/)
 
-Students who meet the requirements are basically hired as research assistants (RAs).
+Students who meet the requirements are hired as research assistants (RAs).
 
 <br />
 
