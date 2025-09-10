@@ -6,5 +6,5 @@ inline: true
 related_posts: false
 ---
 
-Mr. Ege Erdem (King's College London, UK)  がインターンとして研究室に加わりました 🚀
+Mr. Ege Erdem (King's College London, UK) がインターンとして研究室に加わりました 🚀
 

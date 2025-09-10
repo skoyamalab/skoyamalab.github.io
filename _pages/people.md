@@ -88,6 +88,17 @@ nav_order: 1
     </div>
 </div>
 
+<div class="members float-left">
+    {% include figure.html
+        path='assets/img/mmarella.jpg'
+        class="img-fluid z-depth-1 rounded-circle"
+        alt='Mattia Marella' -%}
+    <div class="address">
+        <h5>Mattia Marella</h5>
+        <p><em>Master's Student (University of Ferrara)</em></p>
+    </div>
+</div>
+
 <p style="clear:both"></p>
 
 ### Past people
