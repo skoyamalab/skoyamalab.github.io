@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prof. Koyama received a certificate of appreciation from IEICE ESS 🎊
+title: Prof. Koyama received the Service Award for Editorial Activities from IEICE ESS 🎊
 date: 2025-9-19 10:00:00+0900
 lang: en
 inline: false
