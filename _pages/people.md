@@ -88,16 +88,6 @@ nav_order: 1
     </div>
 </div>
 
-<div class="members float-left">
-    {% include figure.html
-        path='assets/img/mmarella.jpg'
-        class="img-fluid z-depth-1 rounded-circle"
-        alt='Mattia Marella' -%}
-    <div class="address">
-        <h5>Mattia Marella</h5>
-        <p><em>Master's Student (University of Ferrara)</em></p>
-    </div>
-</div>
 
 <p style="clear:both"></p>
 
@@ -105,6 +95,7 @@ nav_order: 1
 
 ---
 
+- Mattia Marella (Intern, University of Ferrara, Italy, 2025)
 - [Riccardo Giampiccolo](https://www.deib.polimi.it/eng/people/details/967806) (Visiting researcher from Polytechnic University of Milan, Italy, 2025)
 - Florent Grimau (Intern, KTH Royal Institute of Technology, 2025)
 - Karl Schrader (Intern, Saarland University, Germany, 2024-2025)
