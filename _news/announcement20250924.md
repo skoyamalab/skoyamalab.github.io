@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A new paper has been published in EURAIP Journal on Audio, Speech, and Music Processing 🎉 
+title: A new paper has been published in IEEE Open Journal of Signal Processing 🎉 
 date: 2025-9-24 10:00:00+0900
 lang: en
 inline: false
