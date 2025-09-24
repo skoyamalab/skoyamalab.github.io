@@ -144,10 +144,10 @@
         <div class="periodical">
           {{ entry.note | strip }}
         </div>
-        {%- if entry.lang == "ja" -%}
+        {%- if page.lang == "ja" -%}
           {%- if entry.invite -%}
           <div class="award">
-            [招待あり]
+            [Invited]
           </div>
           {%- endif -%}
           {%- if entry.award_ja -%}
