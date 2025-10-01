@@ -73,7 +73,7 @@ nav_ja_order: 1
 
 <p style="clear:both"></p>
 
-### インターン
+<!-- ### インターン
 
 ---
 
@@ -89,12 +89,13 @@ nav_ja_order: 1
 </div>
 
 
-<p style="clear:both"></p>
+<p style="clear:both"></p> -->
 
 ### 過去のメンバー
 
 ---
 
+- Ege Erdem (インターン, King's College London, UK, 2025)
 - Mattia Marella (インターン, University of Ferrara, Italy, 2025)
 - [Riccardo Giampiccolo](https://www.deib.polimi.it/eng/people/details/967806) (訪問研究員, Polytechnic University of Milan, Italy, 2025)
 - Florent Grimau (インターン, KTH Royal Institute of Technology, Sweden, 2025)
