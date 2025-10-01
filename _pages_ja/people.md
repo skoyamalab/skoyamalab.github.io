@@ -75,21 +75,7 @@ nav_ja_order: 1
 
 <!-- ### インターン
 
----
-
-<div class="members float-left">
-    {% include figure.html
-        path='assets/img/eerdem.png'
-        class="img-fluid z-depth-1 rounded-circle"
-        alt='Ege Erdem' -%}
-    <div class="address">
-        <h5>Ege Erdem</h5>
-        <p><em>Ph.D. Student (King's College London)</em></p>
-    </div>
-</div>
-
-
-<p style="clear:both"></p> -->
+--- -->
 
 ### 過去のメンバー
 
