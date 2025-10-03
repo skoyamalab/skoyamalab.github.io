@@ -20,7 +20,7 @@ importance: 2
 音源位置から両耳位置までの音の伝達特性である頭部伝達関数（Head-Related Transfer Function: HRTF）は、人間の音像定位にとって重要な手がかりを含んでおり、ヘッドフォン受聴による空間音響技術であるバイノーラル再現を実現するには必要不可欠です。しかしながら、HRTFは受聴者ごとに大きく異なる上、他人のHRTFを用いたバイノーラル信号では定位感にずれが生じることが多く報告されています。したがって、高品質なバイノーラル再現には、受聴者個人のHRTFを簡易的な方法で取得できることが求められます。我々は、機械学習を用いて、少数の測定信号からHRTFをアップサンプリングする技術や、耳の形状パラメータから個人のHRTFを推定する技術などを研究しています。
 
 ##### References
-- Y. Ito, T. Nakamura, S. Koyama, S. Sakamoto, and H. Saruwatari, "Spatial Upsampling of Head-Related Transfer Function Using Neural Network Conditioned on Source Position and Frequency," in *IEEE Open J. Signal Process.*, 2025. <a href="https://doi.org/10.1109/OJSP.2025.3613132" target="_blank"><i class="fas fa-external-link-alt"></i></a>
+- Y. Ito, T. Nakamura, S. Koyama, and H. Saruwatari, "Head-Related Transfer Function Interpolation from Spatially Sparse Measurements Using Autoencoder with Source Position Conditioning," in *Proc. IWAENC*, 2022. <a href="https://arxiv.org/abs/2207.10967" target="_blank"><i class="fas fa-external-link-alt"></i></a>
 - R. Niu, S. Koyama, and T. Nakamura, "Head-Related Transfer Function Individualization Using Anthropometric Features and Spatially Independent Latent Representation," in *Proc. IEEE WASPAA*, 2025. <a href="https://arxiv.org/abs/2508.16176" target="_blank"><i class="fas fa-external-link-alt"></i></a>
 
 
