@@ -5,6 +5,12 @@ permalink: /ja/
 subtitle: 
 lang: ja
 
+carousels:
+  - images:
+    - image: /assets/img/slider/1.jpg
+    - image: /assets/img/slider/2.jpg
+    - image: /assets/img/slider/3.jpg
+
 profile:
   align: right
   image: prof_pic.jpg
