@@ -198,53 +198,64 @@
 <p><br></p>
 
 <h5 id="メディア処理基礎">メディア処理基礎</h5>
-
-<p><br></p>
-
-<h3 id="2024年度">2024年度</h3>
-
-<hr>
-
-<h5 id="情報メディア概論-1">情報メディア概論</h5>
 <ul>
-  <li>5/15(水): Introduction to Signal Processing and Machiene Learning for Audio and Acoustics</li>
+  <li>11/11(火): Fumdamentals of Signal Processing (Part 1)</li>
+  <li>11/18(火): Fumdamentals of Signal Processing (Part 2)</li>
 </ul>
 
 <p><br></p>
 
-<h5 id="メディア処理基礎-1">メディア処理基礎</h5>
-<ul>
-  <li>11/19(火): Fumdamentals of Signal Processing (Part 1) <a href="/assets/pdf/teaching/fund-media-proc2024-1.pdf"><i class="fas fa-file-powerpoint"></i></a>
+<details>
+  <summary>過去の講義</summary>
+
+  <p><br></p>
+
+  <h3 id="section">2024年度</h3>
+
+  <hr>
+
+  <h5 id="section-1">情報メディア概論</h5>
+  <ul>
+    <li>5/15(水): Introduction to Signal Processing and Machiene Learning for Audio and Acoustics</li>
+  </ul>
+
+  <p><br></p>
+
+  <h5 id="section-2">メディア処理基礎</h5>
+  <ul>
+    <li>11/19(火): Fumdamentals of Signal Processing (Part 1) <a href="/assets/pdf/teaching/fund-media-proc2024-1.pdf"><i class="fas fa-file-powerpoint"></i></a>
 </li>
-  <li>11/26(火): Fumdamentals of Signal Processing (Part 2) <a href="/assets/pdf/teaching/fund-media-proc2024-2.pdf"><i class="fas fa-file-powerpoint"></i></a>
+    <li>11/26(火): Fumdamentals of Signal Processing (Part 2) <a href="/assets/pdf/teaching/fund-media-proc2024-2.pdf"><i class="fas fa-file-powerpoint"></i></a>
 </li>
-</ul>
+  </ul>
 
-<p><br></p>
+  <p><br></p>
 
-<h3 id="2023年度">2023年度</h3>
+  <h3 id="section-3">2023年度</h3>
 
-<hr>
+  <hr>
 
-<h5 id="情報メディア概論-2">情報メディア概論</h5>
-<ul>
-  <li>5/17(水): Introduction to Signal Processing and Machiene Learning for Audio and Acoustics</li>
-</ul>
+  <h5 id="section-4">情報メディア概論</h5>
+  <ul>
+    <li>5/17(水): Introduction to Signal Processing and Machiene Learning for Audio and Acoustics</li>
+  </ul>
 
-<p><br></p>
+  <p><br></p>
 
-<h5 id="インタラクティブメディア-休講-1">
+  <h5 id="section-5">
 <del>インタラクティブメディア</del> (休講)</h5>
 
-<p><br></p>
+  <p><br></p>
 
-<h5 id="メディア処理基礎-2">メディア処理基礎</h5>
-<ul>
-  <li>10/31(火): Fumdamentals of Signal Processing (Part 1)</li>
-  <li>11/7(火): Fumdamentals of Signal Processing (Part 2)</li>
-</ul>
+  <h5 id="section-6">メディア処理基礎</h5>
+  <ul>
+    <li>10/31(火): Fumdamentals of Signal Processing (Part 1)</li>
+    <li>11/7(火): Fumdamentals of Signal Processing (Part 2)</li>
+  </ul>
 
-<p><br></p>
+  <p><br></p>
+
+</details>
 
           </article>
 
@@ -385,5 +396,23 @@
   }
 </script>
 
+    <script>
+    
+    var elements = document.querySelectorAll('p');
+    Array.prototype.forEach.call(elements, function(el, i){
+        if(el.innerHTML=='[expand]') {
+            var parentcontent = el.parentNode.innerHTML.replace('<p>[expand]</p>','<div class="expand" style="display: none; height: 0; overflow: hidden;">').replace('<p>[/expand]</p>','</div>');
+            el.parentNode.innerHTML = parentcontent;
+        }
+    });
+
+    var elements = document.querySelectorAll('div.expand');
+    Array.prototype.forEach.call(elements, function(el, i){
+        el.previousElementSibling.innerHTML = el.previousElementSibling.innerHTML + '<span>..&nbsp; <a href="#" style="cursor: pointer;" onclick="this.parentNode.parentNode.nextElementSibling.style.display = \'block\'; this.parentNode.parentNode.nextElementSibling.style.height = \'auto\'; this.parentNode.style.display = \'none\';">read&nbsp;more&nbsp;&rarr;</a></span>';
+    });
+
+</script>
+    <!-- <script type="text/javascript" src="/assets/js/lightbox.js"></script>
+    <link rel="stylesheet" href="/assets/css/lightbox.css"> -->
   </body>
 </html>
