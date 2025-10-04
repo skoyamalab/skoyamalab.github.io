@@ -22,6 +22,13 @@ nav_order: 4
 <br />
 
 ##### Fundamentals of Media Processing
+- 11 Nov. (Tue): Fumdamentals of Signal Processing (Part 1) 
+- 18 Nov. (Tue): Fumdamentals of Signal Processing (Part 2) 
+
+<br />
+
+<details markdown="1">
+<summary>Past teaching</summary>
 
 <br />
 
@@ -59,3 +66,4 @@ nav_order: 4
 
 <br />
 
+</details>

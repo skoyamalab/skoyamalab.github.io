@@ -22,6 +22,13 @@ nav_ja_order: 4
 <br />
 
 ##### メディア処理基礎
+- 11/11(火): Fumdamentals of Signal Processing (Part 1) 
+- 11/18(火): Fumdamentals of Signal Processing (Part 2) 
+
+<br />
+
+<details markdown="1">
+<summary>過去の講義</summary>
 
 <br />
 
@@ -58,3 +65,5 @@ nav_ja_order: 4
 - 11/7(火): Fumdamentals of Signal Processing (Part 2)
 
 <br />
+
+</details>
