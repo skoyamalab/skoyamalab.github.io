@@ -51,7 +51,8 @@ nav_ja_order: 3
 
 ---
 
-<div class="video-container" style="display: flex; flex-wrap: wrap; justify-content: left; gap: 20px;">
-<iframe style="width: 100%; max-width: 400px; aspect-ratio: 16/ 9;" src="https://www.youtube.com/embed/RlbMzSLcLOQ?si=fjWvLIlRxLwrJ3ZZ" allowfullscreen></iframe>
-<iframe style="width: 100%; max-width: 400px; aspect-ratio: 16/ 9;" src="https://www.youtube.com/embed/C5mmF5BE2iU?si=hSCdtVj-Tia5O9Yx" allowfullscreen></iframe>
+<div class="video-container" style="display: flex; flex-wrap: wrap; justify-content: left; gap: 10px;">
+<iframe style="width: 100%; max-width: 300px; aspect-ratio: 16/ 9;" src="https://www.youtube.com/embed/RlbMzSLcLOQ?si=fjWvLIlRxLwrJ3ZZ" allowfullscreen></iframe>
+<iframe style="width: 100%; max-width: 300px; aspect-ratio: 16/ 9;" src="https://www.youtube.com/embed/C5mmF5BE2iU?si=hSCdtVj-Tia5O9Yx" allowfullscreen></iframe>
+<iframe style="width: 100%; max-width: 300px; aspect-ratio: 16/ 9;" src="https://www.youtube.com/embed/2Ru7-XwRTak?si=ixCJinTg3PyToj8r" allowfullscreen></iframe>
 </div>
