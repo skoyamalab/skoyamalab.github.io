@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A new paper has been published in APSIPA Transactions on Signal and Information Processing 🎉 
-date: 2024-9-10 10:00:00+0900
+date: 2025-10-15 10:00:00+0900
 lang: en
 inline: false
 related_posts: false
