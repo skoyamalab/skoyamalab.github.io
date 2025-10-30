@@ -81,7 +81,7 @@ nav_order: 1
 
 ---
 
-- Ege Erdem (Intern, King's College London, UK, 2025)
+- [Ege Erdem](https://www.kcl.ac.uk/people/ege-erdem) (Intern, King's College London, UK, 2025)
 - Mattia Marella (Intern, University of Ferrara, Italy, 2025)
 - [Riccardo Giampiccolo](https://www.deib.polimi.it/eng/people/details/967806) (Visiting researcher from Polytechnic University of Milan, Italy, 2025)
 - Florent Grimau (Intern, KTH Royal Institute of Technology, 2025)
