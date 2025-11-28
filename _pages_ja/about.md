@@ -10,6 +10,7 @@ carousels:
     - image: /assets/img/slider/1.jpg
     - image: /assets/img/slider/2.jpg
     - image: /assets/img/slider/3.jpg
+    - image: /assets/img/slider/4.jpg
 
 profile:
   align: right
