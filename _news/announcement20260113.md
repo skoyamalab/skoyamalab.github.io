@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A new article on has been published in IEICE Journal 🎉 
+title: A new article has been published in IEICE Journal 🎉 
 date: 2026-1-13 10:00:00+0900
 lang: en
 inline: false
