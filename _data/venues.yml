@@ -38,6 +38,10 @@
   url: https://www.jstage.jst.go.jp/browse/jasj/-char/ja
   color: "#f92080"
 
+"電子情報通信学会誌":
+  url: https://www.ieice.org/jpn/books/kaishi.html
+  color: "#f92080"
+
 "ICASSP":
   url: https://ieeexplore.ieee.org/xpl/conhome/1000002/all-proceedings
 
