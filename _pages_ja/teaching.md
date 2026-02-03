@@ -4,8 +4,7 @@ permalink: /ja/teaching/
 title: Teaching
 description:
 lang: ja 
-nav_ja: true
-nav_ja_order: 4
+nav_ja: false
 ---
 
 ### 2025年度

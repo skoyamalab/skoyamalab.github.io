@@ -4,8 +4,7 @@ permalink: /teaching/
 title: Teaching
 description:
 lang: en 
-nav: true
-nav_order: 4
+nav: false
 ---
 
 ### AY 2025
