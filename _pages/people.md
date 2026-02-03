@@ -27,18 +27,6 @@ nav_order: 1
 
 <div class="members float-left">
     {% include figure.html
-        path='assets/img/dhermawanto.jpg'
-        class="img-fluid z-depth-1 rounded-circle"
-        alt='Denny Hermawanto' -%}
-    <div class="address">
-        <h5>Denny Hermawanto, Ph.D.</h5>
-        <p><em>Project Researcher</em></p>
-        <p><a href="#"><i class="fas fa-envelope"></i> dhermawanto<i class="fas fa-at"></i>nii.ac.jp</a></p>
-    </div>
-</div>
-
-<div class="members float-left">
-    {% include figure.html
         path='assets/img/default_avatar.png'
         class="img-fluid z-depth-1 rounded-circle"
         alt='Akiko Nichogi' -%}
@@ -81,6 +69,7 @@ nav_order: 1
 
 ---
 
+- Denny Hermawanto (Project Researcher, NII, 2025-2026)
 - [Ege Erdem](https://www.kcl.ac.uk/people/ege-erdem) (Intern, King's College London, UK, 2025)
 - Mattia Marella (Intern, University of Ferrara, Italy, 2025)
 - [Riccardo Giampiccolo](https://www.deib.polimi.it/eng/people/details/967806) (Visiting researcher from Polytechnic University of Milan, Italy, 2025)
