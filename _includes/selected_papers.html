@@ -1,4 +1,8 @@
 
-          <div class="publications">
-            {% bibliography -f {{ site.scholar.bibliography }} -q @*[selected=true]* %}
+          <div class="sel-publications">
+            {% if page.lang == 'ja' %}
+            {% bibliography --file skoyamalab_ja -q @*[selected=true]* --sort_by year --order descending --group_by none --max_entries 10 %}
+            {% else %}
+            {% bibliography --file skoyamalab_en -q @*[selected=true]* --sort_by year --order descending --group_by none --max_entries 10 %}
+            {% endif %}
           </div>

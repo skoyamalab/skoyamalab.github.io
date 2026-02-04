@@ -5,12 +5,17 @@ layout: default
 <!-- about.html -->
 
       <div class="post">
-        <!-- <header class="post-header">
-          <h1 class="post-title">
-           {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
-          </h1>
+        <!-- header class="post-header">
+          <h2 class="post-title">
+           {% if site.title == 'blank' %}
+              <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
+              {{ site.last_name }}
+            {% else %}
+            {{ site.title }}
+            {% endif %}
+          </h2>
           <p class="desc">{{ page.subtitle }}</p>
-        </header> -->
+        </header -->
 
         <article>
           {% if page.profile -%}
@@ -43,6 +48,9 @@ layout: default
           {%- endif %}
 
           <div class="clearfix">
+            <h2 class="post-title">
+            NII S. Koyama's Lab
+            </h2>
             {{ content }}
           </div>
 
@@ -54,6 +62,7 @@ layout: default
             <h3><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h3>
             {%- endif %}
           {%- include news.html limit=true %}
+          <br />
           {%- endif %}
 
           <!-- Latest posts -->
@@ -64,7 +73,7 @@ layout: default
 
           <!-- Selected papers -->
           {% if page.selected_papers -%}
-          <h3><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected publications</a></h3>
+          <h3><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected works</a></h3>
           {%- include selected_papers.html %}
           {%- endif %}
 
