@@ -41,7 +41,7 @@ Our principal research interests are signal processing and machine learning in a
 
 <br />
 
-###### Keywords
+##### Keywords
 Acoustic signal processing, machine learning for audio, microphone and loudspeaker array processing, spatial audio
 
 <p style="clear:both"></p>
