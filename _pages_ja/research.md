@@ -5,7 +5,7 @@ title: Research
 description:
 lang: ja 
 nav_ja: true
-nav_ja_order: 3
+nav_ja_order: 1
 ---
 
 ### 研究テーマ概要

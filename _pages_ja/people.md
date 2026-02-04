@@ -5,7 +5,7 @@ title: People
 description:
 lang: ja 
 nav_ja: true
-nav_ja_order: 1
+nav_ja_order: 3
 ---
 
 ### スタッフ
