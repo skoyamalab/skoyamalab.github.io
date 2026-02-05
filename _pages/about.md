@@ -35,7 +35,7 @@ Our primary research interests lie in signal processing and machine learning in 
 
 <p><b>We are open to Ph.D. students (5-year and 3-year programs), interns, PostDocs, collaborative research, etc. Check out the <a href="opportunities/">Opportunities</a> page if you are interested!</b></p>
 
-<h4><a href="{{ '/research/' | relative_url }}" style="color: inherit;">Keywords</a></h4>
+<h5><a href="{{ '/research/' | relative_url }}" style="color: inherit;">Keywords</a></h5>
 Acoustic signal processing, machine learning for audio, microphone and loudspeaker array processing, spatial audio
 
 <p style="clear:both"></p>

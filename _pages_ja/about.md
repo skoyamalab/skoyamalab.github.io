@@ -34,7 +34,7 @@ social: true  # includes social icons at the bottom of the page
 
 <p><b>当研究室では博士学生（5年一貫制および後期課程）・インターンシップ生・ポスドク研究員・共同研究等を随時募集しています。興味を持たれた方は<a href="opportunities/">Opportunities</a>のページをご覧ください。</b></p>
 
-<h4><a href="{{ '/ja/research/' | relative_url }}" style="color: inherit;">キーワード</a></h4>
+<h5><a href="{{ '/ja/research/' | relative_url }}" style="color: inherit;">キーワード</a></h5>
 音響信号処理，音メディアのための機械学習，マイク・スピーカアレイ処理，空間音響
 
 <p style="clear:both"></p>
