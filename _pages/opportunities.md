@@ -12,6 +12,8 @@ nav_order: 5
 
 ---
 
+We are open to PostDocs researchers, PhD students, and others.
+
 - ~~Project Researcher (Postdoctoral Fellow): [https://www.nii.ac.jp/en/about/recruit/2024/0315.html](https://www.nii.ac.jp/en/about/recruit/2024/0315.html)~~
 - Postdoctoral researcher based on DAAD-NII Post-Doctral Program: [https://www.nii.ac.jp/en/glo-daad/](https://www.nii.ac.jp/en/glo-daad/)
 

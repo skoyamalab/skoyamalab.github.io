@@ -12,6 +12,8 @@ nav_ja_order: 5
 
 ---
 
+NII小山研究室では，ポスドク研究員・博士学生等を随時受け入れています。
+
 - ~~特任研究員（特定有期雇用職員・ポスドク相当）募集: [https://www.nii.ac.jp/about/recruit/2024/0315.html](https://www.nii.ac.jp/about/recruit/2024/0315.html)~~
 - DAAD-NII Post-Doctral Programに基づくポスドク研究員: [https://www.nii.ac.jp/en/glo-daad/](https://www.nii.ac.jp/en/glo-daad/)
 
