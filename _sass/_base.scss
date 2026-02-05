@@ -41,6 +41,7 @@ table {
   td,
   th {
     font-size: 1rem;
+    color: var(--global-text-color);
   }
 
   th {
@@ -59,6 +60,14 @@ table.table a {
 
   &:hover:after :not(.nav-item.dropdown) {
     width: 100%;
+  }
+}
+
+.news table {
+  background-color: var(--global-card-bg-color);
+  
+  td, th {
+    background-color: var(--global-card-bg-color);
   }
 }
 
