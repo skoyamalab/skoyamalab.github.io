@@ -49,7 +49,11 @@ layout: default
 
           <div class="clearfix">
             <h2 class="post-title">
-            NII S. Koyama's Lab
+              {% if page.lang == "ja" %}
+              NII 小山研究室
+              {%- else -%}
+              NII S. Koyama's Lab
+              {%- endif %}
             </h2>
             {{ content }}
           </div>
@@ -57,7 +61,7 @@ layout: default
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
             {% if page.lang == "ja" %}
-            <h3><a href="{{ '/ja/news/' | relative_url }}" style="color: inherit;">News</a></h3>
+            <h3><a href="{{ '/ja/news/' | relative_url }}" style="color: inherit;">ニュース</a></h3>
             {%- else -%}
             <h3><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h3>
             {%- endif %}
@@ -73,7 +77,11 @@ layout: default
 
           <!-- Selected papers -->
           {% if page.selected_papers -%}
-          <h3><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected works</a></h3>
+          {% if page.lang == "ja" %}
+            <h3><a href="{{ '/ja/publications/' | relative_url }}" style="color: inherit;">主な成果</a></h3>
+          {%- else -%}
+            <h3><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected works</a></h3>
+          {%- endif %}
           {%- include selected_papers.html %}
           {%- endif %}
 
