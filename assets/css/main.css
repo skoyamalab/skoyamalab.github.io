@@ -143,6 +143,7 @@ hr {
 table td,
 table th {
   font-size: 1rem;
+  color: var(--global-text-color);
 }
 table th {
   font-weight: bold;
@@ -160,6 +161,13 @@ table.table a:hover {
 a:hover:after :not(.nav-item.dropdown),
 table.table a:hover:after :not(.nav-item.dropdown) {
   width: 100%;
+}
+
+.news table {
+  background-color: var(--global-card-bg-color);
+}
+.news table td, .news table th {
+  background-color: var(--global-card-bg-color);
 }
 
 figure,
