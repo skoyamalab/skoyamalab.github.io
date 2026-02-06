@@ -33,7 +33,7 @@ Welcome to Audio Processing Research Group at [National Institute of Informatics
 
 Our primary research interests lie in signal processing and machine learning in audio and acoustics. Specifically, we study the analysis and control of acoustic fields, which bridges wave physics and machine learning. Our work is validated through real-world systems, with applications in VR/AR audio, noise control, acoustic imaging, and more.
 
-<p><b>We are open to Ph.D. students (5-year and 3-year programs), interns, PostDocs, collaborative research, etc. Check out the <a href="opportunities/">Opportunities</a> page if you are interested!</b></p>
+<p><b>We are always looking for motivated Ph.D. students, interns, PostDocs, and collaborators. Check out the <a href="opportunities/">Opportunities</a> page if you are interested!</b></p>
 
 <h5><a href="{{ '/research/' | relative_url }}" style="color: inherit;">Keywords</a></h5>
 Acoustic signal processing, machine learning for audio, microphone and loudspeaker array processing, spatial audio
