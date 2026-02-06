@@ -19,7 +19,7 @@ We are always looking for motivated Ph.D. students, internship students, postdoc
 
 Our lab is part of the [Informatics Program, Graduate Institute for Advanced Studies, SOKENDAI](https://www.nii.ac.jp/graduate/en/), and we welcome both domestic and international students for our 5-year and 3-year Ph.D. programs.
 
-- <b>Financial Support</b>: Most of our students receive financial support as Research Assistant (RA) of [SOKENDAI's scholarship programs](https://www.nii.ac.jp/graduate/en/entrance/course_fees/) or other research projects, allowing them to focus on their research. We also provide strong support for applications to the [JSPS Research Fellowship (DC)](https://www.jsps.go.jp/j-pd/pd_sin.html) and others.
+- <b>Financial Support</b>: Most of our students receive financial support as Research Assistant (RA) of [SOKENDAI's scholarship programs](https://www.nii.ac.jp/graduate/en/entrance/course_fees/) or other research projects, allowing them to focus on their research. [MEXT Scholarship](https://www.nii.ac.jp/graduate/en/entrance/) is also an option for international students. We also provide strong support for applications to the [JSPS Research Fellowship (DC)](https://www.jsps.go.jp/english/e-pd/) and other fellowships.
 - <b>Research Environment</b>: With a low student-to-faculty ratio, we provide close mentoring and high-quality research guidance tailored to each research phase. Students also have full access to high-performance computers and professional acoustic measurement facilities.
 - <b>Career Path</b>: Our research covers everything from fundamental theory to social implementation, preparing our graduates for careers in both academia and global industry leaders.
 - <b>Working Professionals</b>: We offer flexible research scheduling for working professionals who wish to pursue a Ph.D. while maintaining their careers.
@@ -38,7 +38,7 @@ We welcome independent postdoctoral researchers who are capable of leading cutti
 
 - <b>Fellowships</b>: In addition to employment within our lab's research project, we accept researchers through various fellowship programs, including:
     - ~~Recruitment for Project Researcher (Postdoctoral Fellow): [https://www.nii.ac.jp/en/about/recruit/2024/0315.html](https://www.nii.ac.jp/en/about/recruit/2024/0315.html)~~
-    - JSPS Postdoctoral Fellowship (PD): [https://www.jsps.go.jp/j-pd/pd_sin.html](https://www.jsps.go.jp/j-pd/pd_sin.html)
+    - JSPS Postdoctoral Fellowships for Research in Japan: [https://www.jsps.go.jp/english/e-fellow/index.html](https://www.jsps.go.jp/english/e-fellow/index.html)
     - DAAD-NII Post-Doctoral Program: [https://www.nii.ac.jp/en/glo-daad/](https://www.nii.ac.jp/en/glo-daad/)
 - <b>Research Independence</b>: While contributing to lab-wide projects, we highly encourage and support researchers in pursuing their own research themes.
 - <b>International Presence</b>: By leveraging NII's global network, we support our members in building an international research network.
