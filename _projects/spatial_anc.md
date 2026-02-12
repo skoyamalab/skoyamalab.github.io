@@ -25,7 +25,8 @@ Active noise control (ANC) is a technique to reduce noise by a canceling loudspe
 </div>
 
 ##### References
-- S. Koyama, J. Brunnström, H. Ito, N. Ueno, and H. Saruwatari, "Spatial Active Noise Control Based on Kernel Interpolation of Sound Field," *IEEE/ACM Trans. Audio, Speech, Lang. Process.*, vol. 29, pp. 3052-3063, 2021. <a href="https://doi.org/10.1109/TASLP.2021.3107983" target="_blank"><i class="fas fa-external-link-alt"></i></a>
-- H. Ito, S. Koyama, N. Ueno, and H. Saruwatari, "Feedforward Spatial Active Noise Control Based on Kernel Interpolation of Sound Field," in *Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP)*, pp. 511-515, Brighton, May, 2019. <a href="https://doi.org/10.1109/ICASSP.2019.8683067" target="_blank"><i class="fas fa-external-link-alt"></i></a>
 
-
+<div class="sel-publications">
+    {% bibliography --file skoyamalab_en -q @*[key=Koyama:IEEE_ACM_J_ASLP2021]* %}
+    {% bibliography --file skoyamalab_en -q @*[key=Ito:ICASSP2019]* %}
+</div>

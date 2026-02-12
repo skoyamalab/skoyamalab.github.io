@@ -25,7 +25,11 @@ In a general sound system, sounds spread in all directions; thus, interference o
 </div>
 
 ##### References
-- Takumi Abe, Shoichi Koyama, Natsuki Ueno, and Hiroshi Saruwatari, "Amplitude Matching for Multizone Sound Field Control," *IEEE/ACM Trans. Audio, Speech, Lang. Process.*, vol. 31, pp. 656-669, 2023. <a href="https://doi.org/10.1109/TASLP.2022.3231715" target="_blank"><i class="fas fa-external-link-alt"></i></a>
-- S. Koyama, T. Amakasu, N. Ueno, and H. Saruwatari, "Amplitude Matching: Majorization-Minimization Algorithm for Sound Field Control Only With Amplitude Constraint," in *Proc. IEEE Int. Conf. Acoust., Speech, Signal Process. (ICASSP)*, pp. 411-415, Jun., 2021. <a href="https://doi.org/10.1109/ICASSP39728.2021.9414855" target="_blank"><i class="fas fa-external-link-alt"></i></a>
+
+<div class="sel-publications">
+    {% bibliography --file skoyamalab_en -q @*[key=Abe:IEEE_ACM_J_ASLP2023]* %}
+    {% bibliography --file skoyamalab_en -q @*[key=Koyama:ICASSP2021]* %}
+</div>
+
 
 

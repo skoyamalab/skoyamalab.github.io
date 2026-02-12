@@ -22,6 +22,10 @@
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=79
   color: "#f92080"
 
+"JASA":
+  url: https://asa.scitation.org/journal/jas
+  color: "#f92080"
+
 "EURASIP JASM":
   url: https://asmp-eurasipjournals.springeropen.com/
   color: "#f92080"

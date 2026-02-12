@@ -11,6 +11,6 @@ nav_ja_order: 2
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography --file skoyamalab_ja %}
+{% bibliography --file skoyamalab_ja --query @*[year >=2023]* %}
 
 </div>

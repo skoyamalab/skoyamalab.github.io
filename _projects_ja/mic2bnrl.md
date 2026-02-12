@@ -25,8 +25,11 @@ importance: 1
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7ymP5Ey9uuM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-##### References
-- N. Iijima, S. Koyama, and H. Saruwatari, "Binaural Rendering from Microphone Array Signals of Arbitrary Geometry," *J. Acoust. Soc. Amer.*, vol. 150, no. 4, pp. 2479-2491, 2021. <a href="https://doi.org/10.1121/10.0006538" target="_blank"><i class="fas fa-external-link-alt"></i></a>
-- N. Ueno, S. Koyama, and H. Saruwatari, "Sound Field Recording Using Distributed Microphones Based on Harmonic Analysis of Infinite Order," *IEEE Signal Process. Lett.*, vol. 25, no. 1, pp. 135-139, 2018.  <a href="https://doi.org/10.1109/LSP.2017.2775242" target="_blank"><i class="fas fa-external-link-alt"></i></a>
+##### 参考文献
+
+<div class="sel-publications">
+    {% bibliography --file skoyamalab_ja -q @*[key=Iijima:JASA_J_2021]* %}
+    {% bibliography --file skoyamalab_ja -q @*[key=Ueno:IEEE_SPL2018]* %}
+</div>
 
 
