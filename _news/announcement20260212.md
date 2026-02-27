@@ -7,7 +7,7 @@ inline: false
 related_posts: false
 ---
 
-A new paper entitled "Time-domain sound field estimation using kernel ridge regression" has been published in [IEEE Transactions on Audio, Speech and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782710) 🎉 
+A new paper entitled "Time-domain sound field estimation using kernel ridge regression" has been published in [IEEE Transactions on Audio, Speech and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10723155) 🎉 
 
 ***
 

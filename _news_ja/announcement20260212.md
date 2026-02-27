@@ -7,7 +7,7 @@ inline: false
 related_posts: false
 ---
 
-[IEEE Transactions on Audio, Speech and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8782710)に"Time-domain sound field estimation using kernel ridge regression"と題する論文が新たに掲載されました。 🎉 
+[IEEE Transactions on Audio, Speech and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10723155)誌に"Time-domain sound field estimation using kernel ridge regression"と題する論文が新たに掲載されました。 🎉 
 
 ***
 
