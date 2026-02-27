@@ -3,7 +3,15 @@
   color: "#f92080"
 
 "IEEE TASLP":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10376
+  color: "#f92080"
+
+"IEEE/ACM TASLP":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655
+  color: "#f92080"
+
+"IEEE TASLPRO":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10723155
   color: "#f92080"
 
 "IEEE OJSP":
