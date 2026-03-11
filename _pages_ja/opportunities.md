@@ -59,10 +59,10 @@ nav_ja_order: 5
 - <b>サポート</b>: ビザ申請や宿泊施設に関する事務的なサポートが提供されます。
 
 現在の募集要項は以下をご参照ください。
-- ~~1st Call of 2025  "NII International Internship Program" (Deadline: Apr. 15, 2025):~~
-    - ~~[https://www.nii.ac.jp/en/about/international/mouresearch/internship2025-1/](https://www.nii.ac.jp/en/about/international/mouresearch/internship2025-1/)~~
-- 2nd Call of 2025  "NII International Internship Program" (Deadline: Oct. 22, 2025):
-    - [https://www.nii.ac.jp/en/about/international/mouresearch/internship2025-2/](https://www.nii.ac.jp/en/about/international/mouresearch/internship2025-2/)
+- 1st Call of 2026 "NII International Internship Program" (Deadline: Apr. 10, 2026):
+    - [https://www.nii.ac.jp/en/about/international/mouresearch/internship2026-1/](https://www.nii.ac.jp/en/about/international/mouresearch/internship2026-1/)
+- ~~2nd Call of 2025 "NII International Internship Program" (Deadline: Oct. 22, 2025):~~
+    - ~~[https://www.nii.ac.jp/en/about/international/mouresearch/internship2025-2/](https://www.nii.ac.jp/en/about/international/mouresearch/internship2025-2/)~~
 
 興味のある方で，NIIとMOUを締結している機関以外に所属する方は，メールにてご相談ください。
 

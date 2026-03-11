@@ -60,10 +60,10 @@ We host internship students from [institutions that have a Memorandum of Underst
 - <b>Support</b>: Administrative support for visa applications and accommodation is provided.
 
 Please refer to the following for current calls:
-- ~~1st Call of 2025  "NII International Internship Program" (Deadline: Apr. 15, 2025):~~
-    - ~~[https://www.nii.ac.jp/en/about/international/mouresearch/internship2025-1/](https://www.nii.ac.jp/en/about/international/mouresearch/internship2025-1/)~~
-- 2nd Call of 2025 "NII International Internship Program" (Deadline: Oct. 22, 2025):
-    - [https://www.nii.ac.jp/en/about/international/mouresearch/internship2025-2/](https://www.nii.ac.jp/en/about/international/mouresearch/internship2025-2/)
+- 1st Call of 2026 "NII International Internship Program" (Deadline: Apr. 10, 2026):
+    - [https://www.nii.ac.jp/en/about/international/mouresearch/internship2026-1/](https://www.nii.ac.jp/en/about/international/mouresearch/internship2026-1/)
+- ~~2nd Call of 2025 "NII International Internship Program" (Deadline: Oct. 22, 2025):~~
+    - ~~[https://www.nii.ac.jp/en/about/international/mouresearch/internship2025-2/](https://www.nii.ac.jp/en/about/international/mouresearch/internship2025-2/)~~
 
 If you are interested but your institution does not have an MoU with NII, please feel free to contact us via email.
 
