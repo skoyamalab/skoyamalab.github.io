@@ -72,7 +72,7 @@ nav_ja_order: 3
         alt='Yazhou Li' -%}
     <div class="address">
         <h5>Yazhou Li</h5>
-        <p><em>インターン (Queen Mary University of London, UK)</em></p>
+        <p>インターン (Queen Mary University of London, UK)</p>
     </div>
 </div>
 
