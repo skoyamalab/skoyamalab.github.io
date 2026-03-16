@@ -61,9 +61,22 @@ nav_ja_order: 3
 
 <p style="clear:both"></p>
 
-<!-- ### インターン
+### インターン
 
---- -->
+--- 
+
+<div class="members float-left">
+    {% include figure.html
+        path='assets/img/yazhouli.jpg'
+        class="img-fluid z-depth-1 rounded-circle"
+        alt='Yazhou Li' -%}
+    <div class="address">
+        <h5>Yazhou Li</h5>
+        <p><em>インターン (Queen Mary University of London, UK)</em></p>
+    </div>
+</div>
+
+<p style="clear:both"></p>
 
 ### 過去のメンバー
 
