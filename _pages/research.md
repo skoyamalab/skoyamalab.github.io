@@ -17,7 +17,7 @@ We explore fundamental theories and applications of next-generation audio signal
 Please refer to the slides bellow for details of our research.
 
 <div style="width: 90%; margin: 1rem;">
-<script defer class="speakerdeck-embed" data-id="86139ad3a3764083a970cfecec71f171" data-ratio="1.7777777777777777" src="//speakerdeck.com/assets/embed.js"></script>
+<script defer class="speakerdeck-embed" data-id="ae7cfd74a63f479fa766fd9c96bc5c28" data-ratio="1.7777777777777777" src="//speakerdeck.com/assets/embed.js"></script>
 </div>
 
 <br />
