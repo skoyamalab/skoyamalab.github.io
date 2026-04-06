@@ -67,6 +67,17 @@ nav_ja_order: 3
 
 <div class="members float-left">
     {% include figure.html
+        path='assets/img/gdalsanto.jpg'
+        class="img-fluid z-depth-1 rounded-circle"
+        alt='Gloria Dal Santo' -%}
+    <div class="address">
+        <h5>Gloria Dal Santo</h5>
+        <p>インターン (Aalto University, Finland)</p>
+    </div>
+</div>
+
+<div class="members float-left">
+    {% include figure.html
         path='assets/img/vderouet.jpg'
         class="img-fluid z-depth-1 rounded-circle"
         alt='Valentin Derouet' -%}
@@ -84,17 +95,6 @@ nav_ja_order: 3
     <div class="address">
         <h5>Yazhou Li</h5>
         <p>インターン (Queen Mary University of London, UK)</p>
-    </div>
-</div>
-
-<div class="members float-left">
-    {% include figure.html
-        path='assets/img/gdalsanto.jpg'
-        class="img-fluid z-depth-1 rounded-circle"
-        alt='Gloria Dal Santo' -%}
-    <div class="address">
-        <h5>Gloria Dal Santo</h5>
-        <p>インターン (Aalto University, Finland)</p>
     </div>
 </div>
 
