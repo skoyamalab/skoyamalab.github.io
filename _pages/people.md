@@ -67,6 +67,28 @@ nav_order: 3
 
 <div class="members float-left">
     {% include figure.html
+        path='assets/img/gdalsanto.jpg'
+        class="img-fluid z-depth-1 rounded-circle"
+        alt='Gloria Dal Santo' -%}
+    <div class="address">
+        <h5>Gloria Dal Santo</h5>
+        <p><em>Intern (Aalto University, Finland)</em></p>
+    </div>
+</div>
+
+<div class="members float-left">
+    {% include figure.html
+        path='assets/img/vderouet.jpg'
+        class="img-fluid z-depth-1 rounded-circle"
+        alt='Valentin Derouet' -%}
+    <div class="address">
+        <h5>Valentin Derouet</h5>
+        <p><em>Intern (ENSSAT Lannion, France)</em></p>
+    </div>
+</div>
+
+<div class="members float-left">
+    {% include figure.html
         path='assets/img/yazhouli.jpg'
         class="img-fluid z-depth-1 rounded-circle"
         alt='Yazhou Li' -%}
