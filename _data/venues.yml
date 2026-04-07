@@ -54,6 +54,10 @@
   url: https://www.ieice.org/jpn/books/kaishi.html
   color: "#f92080"
 
+"IEICE FR":
+  url: https://www.jstage.jst.go.jp/browse/essfr/-char/ja
+  color: "#f92080"
+
 "ICASSP":
   url: https://ieeexplore.ieee.org/xpl/conhome/1000002/all-proceedings
 
