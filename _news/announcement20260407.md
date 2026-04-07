@@ -12,5 +12,5 @@ A new tutorial paper entitled "Physics-Informed Machine Learning in Spatial Audi
 ***
 
 <div class="sel-publications">
-    {% bibliography --file skoyamalab_en -q @*[key=Koyama:IEICE_FR2026]* %}
+    {% bibliography --file skoyamalab_en -q @*[key=Koyama:IEICE_FR2026_en]* %}
 </div>
