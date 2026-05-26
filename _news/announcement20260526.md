@@ -7,7 +7,7 @@ inline: false
 related_posts: false
 ---
 
-Prof. Shoichi Koyama received [the Toyama Award](https://www.t-hito.or.jp/zaidan/toyamashou/announcement_R8.html)) from the Toyama Human Development Foundation in recognition of his achievements on "Sound field analysis and control based on signal processing and machine learning that incorporates wave properties".
+Prof. Shoichi Koyama received [the Toyama Award](https://www.t-hito.or.jp/zaidan/toyamashou/announcement_R8.html) from the Toyama Human Development Foundation in recognition of his achievements on "Sound field analysis and control based on signal processing and machine learning that incorporates wave properties".
 
 <div style="margin: 1rem;">
 <div class="row">
