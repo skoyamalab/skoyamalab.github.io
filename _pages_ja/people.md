@@ -39,9 +39,22 @@ nav_ja_order: 3
 
 <p style="clear:both"></p>
 
-<!-- ### 客員研究員
+### 訪問研究員
 
---- -->
+---
+
+<div class="members float-left">
+    {% include figure.html
+        path='assets/img/rgiampiccolo.jpg'
+        class="img-fluid z-depth-1 rounded-circle"
+        alt='Riccardo Giampiccolo' -%}
+    <div class="address">
+        <h5>Riccardo Giampiccolo</h5>
+        <p><em>Visiting researcher from Polytechnic University of Milan, Italy</em></p>
+    </div>
+</div>
+
+<p style="clear:both"></p>
 
 ### 学生
 
