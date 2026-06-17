@@ -100,23 +100,13 @@ nav_order: 3
     </div>
 </div>
 
-<div class="members float-left">
-    {% include figure.html
-        path='assets/img/yazhouli.jpg'
-        class="img-fluid z-depth-1 rounded-circle"
-        alt='Yazhou Li' -%}
-    <div class="address">
-        <h5>Yazhou Li</h5>
-        <p><em>Intern (Queen Mary University of London, UK)</em></p>
-    </div>
-</div>
-
 <p style="clear:both"></p>
 
 ### Past people
 
 ---
 
+- Yazhou Li (Intern, Queen Mary University of London, UK, 2026)
 - Denny Hermawanto (Project Researcher, NII, 2025-2026)
 - [Ege Erdem](https://www.kcl.ac.uk/people/ege-erdem) (Intern, King's College London, UK, 2025)
 - Mattia Marella (Intern, University of Ferrara, Italy, 2025)

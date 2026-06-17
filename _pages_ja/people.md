@@ -100,23 +100,13 @@ nav_ja_order: 3
     </div>
 </div>
 
-<div class="members float-left">
-    {% include figure.html
-        path='assets/img/yazhouli.jpg'
-        class="img-fluid z-depth-1 rounded-circle"
-        alt='Yazhou Li' -%}
-    <div class="address">
-        <h5>Yazhou Li</h5>
-        <p>インターン (Queen Mary University of London, UK)</p>
-    </div>
-</div>
-
 <p style="clear:both"></p>
 
 ### 過去のメンバー
 
 ---
 
+- Yazhou Li (インターン, Queen Mary University of London, UK, 2026)
 - Denny Hermawanto (特任研究員, NII, 2025-2026)
 - [Ege Erdem](https://www.kcl.ac.uk/people/ege-erdem) (インターン, King's College London, UK, 2025)
 - Mattia Marella (インターン, University of Ferrara, Italy, 2025)
