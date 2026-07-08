@@ -100,6 +100,17 @@ nav_ja_order: 3
     </div>
 </div>
 
+<div class="members float-left">
+    {% include figure.html
+        path='assets/img/minhuilu.jpg'
+        class="img-fluid z-depth-1 rounded-circle"
+        alt='Minhui Lu' -%}
+    <div class="address">
+        <h5>Minhui Lu</h5>
+        <p>インターン (Queen Mary University of London, UK)</p>
+    </div>
+</div>
+
 <p style="clear:both"></p>
 
 ### 過去のメンバー

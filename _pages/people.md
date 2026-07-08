@@ -100,6 +100,17 @@ nav_order: 3
     </div>
 </div>
 
+<div class="members float-left">
+    {% include figure.html
+        path='assets/img/minhuilu.jpg'
+        class="img-fluid z-depth-1 rounded-circle"
+        alt='Minhui Lu' -%}
+    <div class="address">
+        <h5>Minhui Lu</h5>
+        <p><em>Intern (Queen Mary University of London, UK)</em></p>
+    </div>
+</div>
+
 <p style="clear:both"></p>
 
 ### Past people
