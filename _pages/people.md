@@ -39,22 +39,12 @@ nav_order: 3
 
 <p style="clear:both"></p>
 
+<!-- 
 ### Visiting scholars
 
 ---
+-->
 
-<div class="members float-left">
-    {% include figure.html
-        path='assets/img/rgiampiccolo.jpg'
-        class="img-fluid z-depth-1 rounded-circle"
-        alt='Riccardo Giampiccolo' -%}
-    <div class="address">
-        <h5>Riccardo Giampiccolo</h5>
-        <p><em>Visiting researcher from Polytechnic University of Milan, Italy</em></p>
-    </div>
-</div>
-
-<p style="clear:both"></p>
 
 ### Students
 
@@ -77,17 +67,6 @@ nav_order: 3
 ### Interns
 
 --- 
-
-<div class="members float-left">
-    {% include figure.html
-        path='assets/img/gdalsanto.jpg'
-        class="img-fluid z-depth-1 rounded-circle"
-        alt='Gloria Dal Santo' -%}
-    <div class="address">
-        <h5>Gloria Dal Santo</h5>
-        <p><em>Intern (Aalto University, Finland)</em></p>
-    </div>
-</div>
 
 <div class="members float-left">
     {% include figure.html
@@ -117,11 +96,12 @@ nav_order: 3
 
 ---
 
+- Gloria Dal Santo (Intern, Aalto University, Finland, 2026)
+- [Riccardo Giampiccolo](https://www.deib.polimi.it/eng/people/details/967806) (Visiting researcher from Polytechnic University of Milan, Italy, 2025, 2026)
 - Yazhou Li (Intern, Queen Mary University of London, UK, 2026)
 - Denny Hermawanto (Project Researcher, NII, 2025-2026)
 - [Ege Erdem](https://www.kcl.ac.uk/people/ege-erdem) (Intern, King's College London, UK, 2025)
 - Mattia Marella (Intern, University of Ferrara, Italy, 2025)
-- [Riccardo Giampiccolo](https://www.deib.polimi.it/eng/people/details/967806) (Visiting researcher from Polytechnic University of Milan, Italy, 2025)
 - Florent Grimau (Intern, KTH Royal Institute of Technology, 2025)
 - Karl Schrader (Intern, Saarland University, Germany, 2024-2025)
 - Kota Yamano (Master, The University of Tokyo, 2022-2025)
