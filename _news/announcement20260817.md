@@ -1,0 +1,16 @@
+---
+layout: post
+title: A new paper has been published in IEEE Transactions on Audio, Speech and Language Processing 🎉 
+date: 2026-8-17 10:00:00+0900
+lang: en
+inline: false
+related_posts: false
+---
+
+A new paper entitled "Sound field estimation with moving microphones using kernel ridge regression" has been published in [IEEE Transactions on Audio, Speech and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10723155) 🎉 
+
+***
+
+<div class="sel-publications">
+    {% bibliography --file skoyamalab_en -q @*[key=Brunnstroem:IEEE_J_ASLPRO2026-2]* %}
+</div>
