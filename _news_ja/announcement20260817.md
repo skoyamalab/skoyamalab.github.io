@@ -12,5 +12,5 @@ related_posts: false
 ***
 
 <div class="sel-publications">
-    {% bibliography --file skoyamalab_en -q @*[key=Brunnstroem:IEEE_J_ASLPRO2026-2]* %}
+    {% bibliography --file skoyamalab_en -q @*[key=Brunnstroem:IEEE_J_ASLPRO2026_2]* %}
 </div>

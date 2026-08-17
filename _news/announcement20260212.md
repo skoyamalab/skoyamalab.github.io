@@ -12,5 +12,5 @@ A new paper entitled "Time-domain sound field estimation using kernel ridge regr
 ***
 
 <div class="sel-publications">
-    {% bibliography --file skoyamalab_en -q @*[key=Brunnstroem:IEEE_J_ASLPRO2026-1]* %}
+    {% bibliography --file skoyamalab_en -q @*[key=Brunnstroem:IEEE_J_ASLPRO2026_1]* %}
 </div>
