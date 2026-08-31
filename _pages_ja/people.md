@@ -69,17 +69,6 @@ nav_ja_order: 3
 
 <div class="members float-left">
     {% include figure.html
-        path='assets/img/vderouet.jpg'
-        class="img-fluid z-depth-1 rounded-circle"
-        alt='Valentin Derouet' -%}
-    <div class="address">
-        <h5>Valentin Derouet</h5>
-        <p>インターン (ENSSAT Lannion, France)</p>
-    </div>
-</div>
-
-<div class="members float-left">
-    {% include figure.html
         path='assets/img/minhuilu.jpg'
         class="img-fluid z-depth-1 rounded-circle"
         alt='Minhui Lu' -%}
@@ -95,6 +84,7 @@ nav_ja_order: 3
 
 ---
 
+- Valentin Derouet (インターン, ENSSAT Lannion, France, 2026)
 - Gloria Dal Santo (インターン, Aalto University, Finland, 2026)
 - [Riccardo Giampiccolo](https://www.deib.polimi.it/eng/people/details/967806) (訪問研究員, Polytechnic University of Milan, Italy, 2025, 2026)
 - Yazhou Li (インターン, Queen Mary University of London, UK, 2026)
