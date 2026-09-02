@@ -7,7 +7,7 @@ inline: false
 related_posts: false
 ---
 
-We have three Presentations related to our lab at [IEEE WASPAA 2025](https://waspaa.com/), held in Tahoe City, CA, USA, from 12th to 15th Oct. 
+We have three presentations related to our lab at [IEEE WASPAA 2025](https://waspaa.com/), held in Tahoe City, CA, USA, from 12th to 15th Oct. 
 
 ***
 
