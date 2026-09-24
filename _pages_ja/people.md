@@ -63,27 +63,17 @@ nav_ja_order: 3
 
 <p style="clear:both"></p>
 
+<!--
 ### インターン
 
 --- 
-
-<div class="members float-left">
-    {% include figure.html
-        path='assets/img/minhuilu.jpg'
-        class="img-fluid z-depth-1 rounded-circle"
-        alt='Minhui Lu' -%}
-    <div class="address">
-        <h5>Minhui Lu</h5>
-        <p>インターン (Queen Mary University of London, UK)</p>
-    </div>
-</div>
-
-<p style="clear:both"></p>
+-->
 
 ### 過去のメンバー
 
 ---
 
+- Minhui Lu (インターン, Queen Mary University of London, UK, 2026)
 - Valentin Derouet (インターン, ENSSAT Lannion, France, 2026)
 - Gloria Dal Santo (インターン, Aalto University, Finland, 2026)
 - [Riccardo Giampiccolo](https://www.deib.polimi.it/eng/people/details/967806) (訪問研究員, Polytechnic University of Milan, Italy, 2025, 2026)

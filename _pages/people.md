@@ -64,27 +64,17 @@ nav_order: 3
 
 <p style="clear:both"></p>
 
+<!-- 
 ### Interns
 
 --- 
-
-<div class="members float-left">
-    {% include figure.html
-        path='assets/img/minhuilu.jpg'
-        class="img-fluid z-depth-1 rounded-circle"
-        alt='Minhui Lu' -%}
-    <div class="address">
-        <h5>Minhui Lu</h5>
-        <p><em>Intern (Queen Mary University of London, UK)</em></p>
-    </div>
-</div>
-
-<p style="clear:both"></p>
+-->
 
 ### Past people
 
 ---
 
+- Minhui Lu (Intern, Queen Mary University of London, UK, 2026)
 - Valentin Derouet (Intern, ENSSAT Lannion, France, 2026)
 - Gloria Dal Santo (Intern, Aalto University, Finland, 2026)
 - [Riccardo Giampiccolo](https://www.deib.polimi.it/eng/people/details/967806) (Visiting researcher from Polytechnic University of Milan, Italy, 2025, 2026)
