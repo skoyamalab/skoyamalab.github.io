@@ -78,6 +78,8 @@ nav_ja_order: 3
     </div>
 </div>
 
+<p style="clear:both"></p>
+
 ### 過去のメンバー
 
 ---
