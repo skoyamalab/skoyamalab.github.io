@@ -63,11 +63,20 @@ nav_ja_order: 3
 
 <p style="clear:both"></p>
 
-<!--
 ### インターン
 
 --- 
--->
+
+<div class="members float-left">
+    {% include figure.html
+        path='assets/img/kirakkim.jpg'
+        class="img-fluid z-depth-1 rounded-circle"
+        alt='Kirak Kim' -%}
+    <div class="address">
+        <h5>Kirak Kim</h5>
+        <p>インターン (KAIST, Republic of Korea)</p>
+    </div>
+</div>
 
 ### 過去のメンバー
 

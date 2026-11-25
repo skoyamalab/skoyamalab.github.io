@@ -64,11 +64,25 @@ nav_order: 3
 
 <p style="clear:both"></p>
 
-<!-- 
+
 ### Interns
 
 --- 
--->
+
+<div class="members float-left">
+    {% include figure.html
+        path='assets/img/kirakkim.jpg'
+        class="img-fluid z-depth-1 rounded-circle"
+        alt='Kirak Kim' -%}
+    <div class="address">
+        <h5>Kirak Kim</h5>
+        <p><em>Intern (KAIST, Republic of Korea)</em></p>
+    </div>
+</div>
+
+<p style="clear:both"></p>
+
+
 
 ### Past people
 
